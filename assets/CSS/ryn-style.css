@@ -208,17 +208,49 @@ nav {
     border: none;
 }
 .timeline .main .group-button .tahun {
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 600;
     color: #989393;
 }
 .timeline .main .group-button .line {
-    width: 180px;
+    width: 210px;
     height: 10px;
     background-color: #D9D9D9;
-    margin-top: -24px;
+    margin-top: -27px;
 }
-.timeline .main .group-button .line .active {
-    
+.timeline .main .group-button .tahun-active {
+    color: #1F4B43;
+}
+.timeline .main .group-button .line-active {
+    background-color: #E7C873;
+}
+.timeline .main .value-timeline {
+    width: 70vw;
+}
+.timeline .main .value-timeline p{
+    font-size: 18px;
+}
+.timeline .main .value-timeline .line {
+    width: 80px;
+    height: 3px;
+    background-color: #000000;
+    border-radius: 10px;
+}
+.timeline .main .value-timeline td {
+    padding: 5px;
+    color: rgba(6, 6, 6, 0.7);
+    font-size: 14px;
+}
+.timeline .main .value-timeline .penyebut {
+    font-weight: 600;
+}
+.timeline .main .value-timeline .jawaban-deskripsi {
+    height: 100px;
+    text-align: center;
+}
+.timeline .main .value-timeline .image img{
+    height: 35vh;
+    width: 30vw;
+    border-radius: 10px;
 }
 /* End Timeline */

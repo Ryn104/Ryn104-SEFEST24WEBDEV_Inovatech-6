@@ -67,7 +67,7 @@ document.getElementById('data-select').addEventListener('change', function() {
     }
 });
 
-
+// switch
 $(document).ready(function() {
     $("#color_mode").on("change", function() {
         toggleTargetAttribute(this.checked);
@@ -90,7 +90,6 @@ function toggleTargetAttribute(isChecked) {
         collapseToHide = '#PusatData';
     }
 
-    // Use Bootstrap Collapse API to show/hide elements
     $(collapseToHide).collapse('hide');
     $(collapseToShow).collapse('show');
 }
@@ -100,75 +99,99 @@ $(document).ready(function() {
         colorModePreview(this);
     })
 });
+// End Switch
 
+// JS Timeline
+const buttons = document.querySelectorAll('.group-button button');
 
-// jQuery(function($) {
-//     $(window).on('scroll', function() {
-//         if ($(this).scrollTop() >= 200) {
-//             $('.navbar').addClass('bg-dark');
-//         } else if ($(this).scrollTop() == 0) {
-//             $('.navbar').removeClass('bg-dark');
-//         }
-// })});
+buttons.forEach(button => {
+  button.addEventListener('click', () => {
+    buttons.forEach(btn => {
+      btn.querySelector('.tahun').classList.remove('tahun-active');
+      btn.querySelector('.line').classList.remove('line-active');
+    });
 
+    button.querySelector('.tahun').classList.add('tahun-active');
+    button.querySelector('.line').classList.add('line-active');
 
+    updateTimelineDetails(button.querySelector('.tahun').textContent);
+  });
+});
 
+function updateTimelineDetails(year) {
+  const timelineDetails = {
+    '1815': {
+      judul: 'Letusan Gunung Tambora',
+      tanggal: 'April 1815',
+      lokasi: 'Pulau Sumbawa, Indonesia',
+      korban_jiwa: '71,000',
+      magnitude: 'VEI 7',
+      deskripsi: 'Letusan terbesar yang tercatat dalam sejarah manusia, menyebabkan tahun tanpa musim panas.',
+      image: 'assets/Image/timeline/tambora.png'
+    },
+    '1883': {
+      judul: 'Letusan Gunung Krakatau',
+      tanggal: '27 Agustus 1883',
+      lokasi: 'Selat Sunda, antara Jawa dan Sumatra',
+      korban_jiwa: '36,417',
+      magnitude: 'VEI 6',
+      deskripsi: 'Letusan besar yang menghasilkan tsunami setinggi 30 meter dan suara ledakan terdengar hingga Australia.',
+      image: 'assets/Image/timeline/krakatau.png'
+    },
+    '2004': {
+      judul: 'Tsunami Aceh',
+      tanggal: '26 Desember 2004',
+      lokasi: 'Samudra Hindia, dekat pantai barat Sumatra',
+      korban_jiwa: '230,000',
+      magnitude: '9.1',
+      deskripsi: 'Salah satu gempa bumi paling mematikan yang memicu tsunami besar dan menyebabkan kerusakan luas di 14 negara.',
+      image: 'assets/Image/timeline/aceh.png'
+    },
+    '2006': {
+      judul: 'Gempa Yogyakarta',
+      tanggal: '27 Mei 2006',
+      lokasi: 'Yogyakarta, Indonesia',
+      korban_jiwa: '5,749',
+      magnitude: '6.3',
+      deskripsi: 'Gempa bumi besar yang melanda wilayah Yogyakarta dan Jawa Tengah, menyebabkan kerusakan yang signifikan.',
+      image: 'assets/Image/timeline/yogyakarta.png'
+    },
+    '2018': {
+      judul: 'Tsunami Palu',
+      tanggal: '28 September 2018',
+      lokasi: 'Palu dan Donggala, Sulawesi Tengah',
+      korban_jiwa: '4,340',
+      magnitude: '7.5',
+      deskripsi: 'Gempa bumi dan tsunami yang menyebabkan kerusakan luas dan ribuan korban jiwa di Palu dan sekitarnya.',
+      image: 'assets/Image/timeline/palu.png'
+    },
+    '2022': {
+      judul: 'Erupsi Semeru',
+      tanggal: '4 Desember 2022',
+      lokasi: 'Kabupaten Lumajang, Jawa Timur',
+      korban_jiwa: '69',
+      magnitude: 'VEI 4',
+      deskripsi: 'Letusan menyebabkan evakuasi ribuan penduduk dan kerusakan parah di beberapa desa.',
+      image: 'assets/Image/timeline/semeru.png'
+    }
+  };
 
+  const details = timelineDetails[year];
+  const valueTimeline = document.getElementById('ValueTimeline');
 
+  if (details) {
+    valueTimeline.querySelector('h1').textContent = details.judul;
+    valueTimeline.querySelector('p').textContent = `Kejadian Terparah di Tahun ${year}`;
 
-// let penyebab = document.getElementById("penyebab");
-// let dampak = document.getElementById("dampak");
-// let solusi = document.getElementById("solusi");
-// let galery = document.getElementById("galery");
+    valueTimeline.querySelector('img').src = details.image;
+    valueTimeline.querySelector('img').alt = details.judul;
 
-// penyebab.addEventListener("click", function(){
-//     penyebab.style.borderBottom = "3px solid #FC3535";
-//     penyebab.style.marginBottom = "-3px";
-//     penyebab.style.color = "white";
-
-// });
-// dampak.addEventListener("click", function(){
-//     dampak.style.borderBottom = "3px solid #FC3535";
-//     dampak.style.marginBottom = "-3px";
-//     dampak.style.color = "white";
-// });
-// solusi.addEventListener("click", function(){
-//     solusi.style.borderBottom = "3px solid #FC3535";
-//     solusi.style.marginBottom = "-3px";
-//     solusi.style.color = "white";
-// });
-// galery.addEventListener("click", function(){
-//     galery.style.borderBottom = "3px solid #FC3535";
-//     galery.style.marginBottom = "-3px";
-//     galery.style.color = "white";
-// });
-// window.addEventListener("scroll", function(){
-//     var header = document.querySelector("nav");
-//     header.classList.toggle("sticky", window.scrollY > 100);
-//   });
-  
-	
-// 	function adjustNav() {
-// 		var winWidth = $(window).width(),
-// 			dropdown = $('.dropdown'),
-// 			dropdownMenu = $('.dropdown-menu');
-		
-// 		if (winWidth >= 768) {
-// 			dropdown.on('mouseenter', function() {
-// 				$(this).addClass('show')
-// 					.children(dropdownMenu).addClass('show');
-// 			});
-			
-// 			dropdown.on('mouseleave', function() {
-// 				$(this).removeClass('show')
-// 					.children(dropdownMenu).removeClass('show');
-// 			});
-// 		} else {
-// 			dropdown.off('mouseenter mouseleave');
-// 		}
-// 	}
-	
-// 	$(window).on('resize', adjustNav);
-	
-// 	adjustNav();
-// });
+    const tableRows = valueTimeline.querySelectorAll('table tr');
+    tableRows[0].querySelector('td:nth-child(3)').textContent = details.tanggal;
+    tableRows[1].querySelector('td:nth-child(3)').textContent = details.lokasi;
+    tableRows[2].querySelector('td:nth-child(3)').textContent = details.korban_jiwa;
+    tableRows[3].querySelector('td:nth-child(3)').textContent = details.magnitude;
+    tableRows[4].querySelector('td:nth-child(3)').textContent = details.deskripsi;
+  }
+}
+// End Timeline
