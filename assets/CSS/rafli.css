@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*, html {
+    font-family: "Poppins", sans-serif;
+}
+
+/* youtube start */
+.youtube{
+    justify-content: center;
+    align-items: center;
+}
+.youtube p{
+    color: #FFFFFF;
+    text-align: center;
+}
+.youtube .title{
+    padding-top: 50px;
+    font-weight: 500;
+    font-size: 24px;
+}
+.youtube .sub{
+    font-weight: 200;
+    font-size: 14px;
+    margin-top: -10px;
+    margin-bottom: 2rem;
+}
+.youtube iframe{
+    margin-bottom: 10rem;
+}
+
+/* youtube end */
+
+/* Donasi start */
+.donasi{
+    background-color: #1F4B43;
+    border-radius: 15px;
+    width: 60rem;
+    height: 25rem;
+    margin: 0 auto;
+    margin-top: 7rem;
+    margin-bottom: 6rem;
+}
+.donasi-text{
+    padding: 50px;
+    width: 50%;
+    color: #FFFFFF;
+}
+.donasi-highlight{
+    background-color: rgba(255, 255, 255, 0.12);
+    width: fit-content;
+    border-radius: 30px;
+}
+.donasi-text-highlight{
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 200;
+    margin: 10px;
+}
+.donasi-text-title{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 25px;
+}
+.donasi-text-deskripsi{
+    font-weight: 300;
+    font-size: 12px;
+    width: 110%;
+}
+.donasi button{
+    background-color: #E7C873;
+    color: #1F4B43;
+    border: none;
+    border-radius: 12px;
+    text-align: left;
+}
+.donasi-button p{
+    margin: auto;
+}
+.donasi-button-icon{
+    border-left: 1px solid #1F4B43;
+    margin: auto;
+    padding-left: 8px;
+}
+.donasi-image{
+    margin-left: 8rem;
+    margin-top: -20px;
+}
+.donasi-image img{
+    width: 25rem;
+}
+
+/* Donasi end */
+
+/* Footer start */
+.footer-kiri{
+    width: 70%;
+}
+.footer-kiri-title{
+    font-weight: 600;
+}
+.footer-kiri-sub{
+    width: 70%;
+    font-size: small;
+}
+.footer-email{
+    width: 18rem;
+}  
+.copyright{
+    font-size: small;
+}
+.copyright p{
+    margin: 0;
+}
+
+/* footer end */
+
