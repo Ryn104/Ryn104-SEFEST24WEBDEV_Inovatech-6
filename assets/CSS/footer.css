@@ -1,0 +1,22 @@
+/* Footer start */
+.footer-kiri{
+    width: 70%;
+}
+.footer-kiri-title{
+    font-weight: 600;
+}
+.footer-kiri-sub{
+    width: 70%;
+    font-size: small;
+}
+.footer-email{
+    width: 18rem;
+}  
+.copyright{
+    font-size: small;
+}
+.copyright p{
+    margin: 0;
+}
+
+/* footer end */

@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*, html {
+    font-family: "Poppins", sans-serif;
+}
+
+body{
+    background-color: #757575;
+}
+
+/* donasi start */
+.donasi{
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.donasi-tanggal{
+    margin-bottom: 12.5rem;
+}
+.donasi-carousel {
+    padding: 1rem;
+    background-color: #FFFFFF;
+}
+.carousel-caption{
+    margin-left: -7rem;
+}
+.donasi-card{
+    background-color: #FFFFFF;
+    width: 22rem;
+    padding: 1rem;
+    border-radius: 15px;
+}
+.donasi-cards{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 1rem;
+}
+.donasi-card p{
+    margin: 0;
+}
+img.donasi-img {
+    width: 100%;
+}
+.donasi-card-yaya{
+    font-weight: 500;
+    color: #767676;
+    font-size: 14px;
+}
+.donasi-card-dana{
+    font-weight: 300;
+    color: #767676;
+    font-size: 12px;
+}
+.donasi-card-uang{
+    font-weight: 400;
+    color: #1F4B43;
+}
+.donasi-list{
+    width: 60%;
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 1rem;
+    border-radius: 15px;
+}
+.donasi-list button{
+    border-radius: 15px;
+    padding: 1rem;
+    border: none;
+    background-color: #FFFFFF;
+}
+.donasi-list button:hover{
+    background-color: #E7C873;
+}
+.progress{
+    margin: 0 auto;
+}
+
+.donasi-card-lebih{
+    display: none;
+}
+
+/* donasi end */
