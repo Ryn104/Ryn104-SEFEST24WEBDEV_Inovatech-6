@@ -1,0 +1,92 @@
+[
+    {
+        "jenis": "Banjir",
+        "nama": "Banjir Jakarta 2007",
+        "tanggal": "2007-02-01",
+        "lokasi": "Jakarta",
+        "magnitudo": "-",
+        "korban_jiwa": 80,
+        "deskripsi": "Hujan lebat dan sistem drainase yang buruk menyebabkan banjir parah, mengakibatkan ribuan orang mengungsi."
+    },
+    {
+        "jenis": "Banjir",
+        "nama": "Banjir Jakarta 2020",
+        "tanggal": "2020-01-01",
+        "lokasi": "Jakarta",
+        "magnitudo": "-",
+        "korban_jiwa": 66,
+        "deskripsi": "Banjir besar di awal tahun yang dipicu oleh hujan deras dan menyebabkan evakuasi ribuan warga."
+    },
+    {
+        "jenis": "Banjir",
+        "nama": "Banjir Bandang Garut 2016",
+        "tanggal": "2016-09-20",
+        "lokasi": "Garut, Jawa Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 34,
+        "deskripsi": "Banjir bandang akibat luapan Sungai Cimanuk yang merusak rumah dan infrastruktur."
+    },
+    {
+        "jenis": "Banjir",
+        "nama": "Banjir Bengkulu 2019",
+        "tanggal": "2019-04-26",
+        "lokasi": "Bengkulu",
+        "magnitudo": "-",
+        "korban_jiwa": 29,
+        "deskripsi": "Hujan deras menyebabkan banjir yang menewaskan puluhan orang dan merusak ribuan rumah."
+    },
+    {
+        "jenis": "Banjir",
+        "nama": "Banjir Bandung 2020",
+        "tanggal": "2020-11-25",
+        "lokasi": "Bandung, Jawa Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "deskripsi": "Banjir di berbagai wilayah Bandung yang mengakibatkan kemacetan dan kerusakan properti."
+    },
+    {
+        "jenis": "Banjir",
+        "nama": "Banjir Kalimantan Selatan 2021",
+        "tanggal": "2021-01-12",
+        "lokasi": "Kalimantan Selatan",
+        "magnitudo": "-",
+        "korban_jiwa": 15,
+        "deskripsi": "Banjir besar akibat hujan lebat yang memengaruhi ribuan rumah dan menyebabkan evakuasi massal."
+    },
+    {
+        "jenis": "Banjir",
+        "nama": "Banjir Manado 2014",
+        "tanggal": "2014-01-15",
+        "lokasi": "Manado, Sulawesi Utara",
+        "magnitudo": "-",
+        "korban_jiwa": 19,
+        "deskripsi": "Banjir besar dan tanah longsor yang melanda Manado dan menyebabkan kerugian besar."
+    },
+    {
+        "jenis": "Banjir",
+        "nama": "Banjir Bandung 2023",
+        "tanggal": "2023-04-22",
+        "lokasi": "Bandung, Jawa Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "deskripsi": "Banjir akibat hujan deras yang menyebabkan kemacetan dan kerusakan rumah."
+    },
+    {
+        "jenis": "Banjir",
+        "nama": "Banjir Aceh 2006",
+        "tanggal": "2006-12-22",
+        "lokasi": "Aceh",
+        "magnitudo": "-",
+        "korban_jiwa": 96,
+        "deskripsi": "Banjir besar yang terjadi setelah hujan deras terus-menerus selama beberapa hari, merusak ribuan rumah."
+    },
+    {
+        "jenis": "Banjir",
+        "nama": "Banjir Wasior 2010",
+        "tanggal": "2010-10-04",
+        "lokasi": "Wasior, Papua Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 158,
+        "deskripsi": "Banjir bandang yang menghancurkan kota Wasior, menyebabkan banyak korban jiwa dan kerusakan infrastruktur."
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi dan Tsunami Aceh 2004",
+        "tanggal": "2004-12-26",
+        "lokasi": "Samudra Hindia, dekat pantai barat Sumatra",
+        "magnitudo": 9.1,
+        "korban_jiwa": 230000,
+        "deskripsi": "Salah satu gempa bumi paling mematikan yang memicu tsunami besar dan menyebabkan kerusakan luas di 14 negara."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Yogyakarta 2006",
+        "tanggal": "2006-05-27",
+        "lokasi": "Yogyakarta, Jawa Tengah",
+        "magnitudo": 6.3,
+        "korban_jiwa": 5700,
+        "deskripsi": "Gempa bumi dahsyat yang menghancurkan banyak bangunan dan menyebabkan ribuan korban jiwa di wilayah Yogyakarta dan Jawa Tengah."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Sumatra Barat 2009",
+        "tanggal": "2009-09-30",
+        "lokasi": "Sumatra Barat",
+        "magnitudo": 7.6,
+        "korban_jiwa": 1117,
+        "deskripsi": "Gempa bumi besar yang menyebabkan kerusakan parah di kota Padang dan sekitarnya."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Lombok 2018",
+        "tanggal": "2018-08-05",
+        "lokasi": "Lombok, Nusa Tenggara Barat",
+        "magnitudo": 6.9,
+        "korban_jiwa": 563,
+        "deskripsi": "Gempa kuat yang menghancurkan ribuan bangunan dan menewaskan ratusan orang di Lombok dan Bali."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Sulawesi Tengah 2018",
+        "tanggal": "2018-09-28",
+        "lokasi": "Sulawesi Tengah",
+        "magnitudo": 7.5,
+        "korban_jiwa": 4340,
+        "deskripsi": "Gempa bumi yang memicu tsunami dan likuifaksi di Palu dan Donggala, menyebabkan ribuan korban jiwa."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Maluku Utara 2019",
+        "tanggal": "2019-07-14",
+        "lokasi": "Maluku Utara",
+        "magnitudo": 7.2,
+        "korban_jiwa": 14,
+        "deskripsi": "Gempa kuat di Maluku Utara yang menyebabkan kerusakan infrastruktur dan korban jiwa."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Bali 2021",
+        "tanggal": "2021-10-16",
+        "lokasi": "Bali",
+        "magnitudo": 4.8,
+        "korban_jiwa": 3,
+        "deskripsi": "Gempa bumi yang menyebabkan tanah longsor dan kerusakan di beberapa wilayah di Bali."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Nias 2005",
+        "tanggal": "2005-03-28",
+        "lokasi": "Nias, Sumatra Utara",
+        "magnitudo": 8.6,
+        "korban_jiwa": 1300,
+        "deskripsi": "Gempa besar yang melanda pulau Nias dan memicu peringatan tsunami di Samudra Hindia."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Papua 2023",
+        "tanggal": "2023-02-09",
+        "lokasi": "Papua",
+        "magnitudo": 5.4,
+        "korban_jiwa": 4,
+        "deskripsi": "Gempa bumi yang menyebabkan kerusakan bangunan dan beberapa korban jiwa di Papua."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Bengkulu 2007",
+        "tanggal": "2007-09-12",
+        "lokasi": "Bengkulu",
+        "magnitudo": 8.5,
+        "korban_jiwa": 25,
+        "deskripsi": "Gempa bumi besar di Bengkulu yang mempengaruhi wilayah pesisir barat Sumatra."
+    }
+]

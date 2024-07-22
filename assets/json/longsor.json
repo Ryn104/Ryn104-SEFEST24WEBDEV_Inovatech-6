@@ -1,0 +1,92 @@
+[
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Banjarnegara 2014",
+        "tanggal": "2014-12-12",
+        "lokasi": "Banjarnegara, Jawa Tengah",
+        "magnitudo": "-",
+        "korban_jiwa": 95,
+        "deskripsi": "Tanah longsor besar menimbun seluruh desa Jemblung, menyebabkan puluhan korban jiwa dan hilangnya banyak rumah."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Sumedang 2021",
+        "tanggal": "2021-01-09",
+        "lokasi": "Sumedang, Jawa Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 40,
+        "deskripsi": "Hujan deras menyebabkan tanah longsor yang menewaskan puluhan orang dan merusak infrastruktur."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Bogor 2020",
+        "tanggal": "2020-01-01",
+        "lokasi": "Bogor, Jawa Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 16,
+        "deskripsi": "Longsor yang terjadi akibat hujan lebat menyebabkan kematian dan kerusakan rumah."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Ponorogo 2017",
+        "tanggal": "2017-04-01",
+        "lokasi": "Ponorogo, Jawa Timur",
+        "magnitudo": "-",
+        "korban_jiwa": 28,
+        "deskripsi": "Longsor melanda area pertanian, menewaskan banyak petani yang sedang bekerja di ladang."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Nganjuk 2021",
+        "tanggal": "2021-02-14",
+        "lokasi": "Nganjuk, Jawa Timur",
+        "magnitudo": "-",
+        "korban_jiwa": 9,
+        "deskripsi": "Tanah longsor yang dipicu oleh hujan deras merusak rumah dan menyebabkan korban jiwa."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Lebak 2020",
+        "tanggal": "2020-01-01",
+        "lokasi": "Lebak, Banten",
+        "magnitudo": "-",
+        "korban_jiwa": 10,
+        "deskripsi": "Longsor yang terjadi bersamaan dengan banjir menyebabkan kerusakan parah di banyak desa."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Manggarai Barat 2022",
+        "tanggal": "2022-05-20",
+        "lokasi": "Manggarai Barat, Nusa Tenggara Timur",
+        "magnitudo": "-",
+        "korban_jiwa": 5,
+        "deskripsi": "Longsor disebabkan oleh hujan deras yang merusak rumah dan menewaskan beberapa orang."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Karanganyar 2007",
+        "tanggal": "2007-12-26",
+        "lokasi": "Karanganyar, Jawa Tengah",
+        "magnitudo": "-",
+        "korban_jiwa": 56,
+        "deskripsi": "Longsor melanda desa Tawangmangu, menewaskan puluhan warga."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Agam 2019",
+        "tanggal": "2019-10-20",
+        "lokasi": "Agam, Sumatera Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 7,
+        "deskripsi": "Longsor akibat hujan deras merusak beberapa rumah dan menyebabkan korban jiwa."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Bandung Barat 2021",
+        "tanggal": "2021-05-18",
+        "lokasi": "Bandung Barat, Jawa Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 3,
+        "deskripsi": "Tanah longsor menimpa rumah di lereng bukit setelah hujan deras, menewaskan tiga orang."
+    }
+]

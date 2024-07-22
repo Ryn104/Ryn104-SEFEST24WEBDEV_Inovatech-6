@@ -1,0 +1,92 @@
+[
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Krakatau 1883",
+        "tanggal": "1883-08-26",
+        "lokasi": "Selat Sunda",
+        "magnitudo": "-",
+        "korban_jiwa": 36000,
+        "deskripsi": "Letusan dahsyat yang memicu tsunami besar dan menyebabkan perubahan iklim global."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Tambora 1815",
+        "tanggal": "1815-04-10",
+        "lokasi": "Sumbawa, Nusa Tenggara Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 71000,
+        "deskripsi": "Letusan terbesar dalam sejarah yang menyebabkan 'Tahun Tanpa Musim Panas' di belahan bumi utara."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Merapi 2010",
+        "tanggal": "2010-10-26",
+        "lokasi": "Yogyakarta, Jawa Tengah",
+        "magnitudo": "-",
+        "korban_jiwa": 353,
+        "deskripsi": "Salah satu letusan terkuat dalam dekade terakhir yang menyebabkan evakuasi massal."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Agung 1963",
+        "tanggal": "1963-03-17",
+        "lokasi": "Bali",
+        "magnitudo": "-",
+        "korban_jiwa": 1600,
+        "deskripsi": "Letusan yang merusak ribuan rumah dan menyebabkan banyak korban jiwa."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Kelud 2014",
+        "tanggal": "2014-02-13",
+        "lokasi": "Jawa Timur",
+        "magnitudo": "-",
+        "korban_jiwa": 7,
+        "deskripsi": "Letusan menyebabkan hujan abu di banyak kota besar di Jawa."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Sinabung 2016",
+        "tanggal": "2016-05-21",
+        "lokasi": "Sumatera Utara",
+        "magnitudo": "-",
+        "korban_jiwa": 7,
+        "deskripsi": "Letusan menyebabkan evakuasi ribuan orang dan merusak lahan pertanian."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Galunggung 1982",
+        "tanggal": "1982-04-05",
+        "lokasi": "Jawa Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 68,
+        "deskripsi": "Letusan menyebabkan gangguan penerbangan internasional dan menewaskan puluhan orang."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Semeru 2021",
+        "tanggal": "2021-12-04",
+        "lokasi": "Jawa Timur",
+        "magnitudo": "-",
+        "korban_jiwa": 51,
+        "deskripsi": "Letusan menyebabkan evakuasi ribuan penduduk dan kerusakan parah di beberapa desa."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Rinjani 2015",
+        "tanggal": "2015-10-25",
+        "lokasi": "Lombok, Nusa Tenggara Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "deskripsi": "Letusan menyebabkan pembatalan penerbangan dan evakuasi penduduk sekitar."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Toba Kuno",
+        "tanggal": "74.000 Tahun Lalu",
+        "lokasi": "Sumatera Utara",
+        "magnitudo": "-",
+        "korban_jiwa": "Tidak diketahui",
+        "deskripsi": "Salah satu letusan supervolcano terbesar dalam sejarah geologi bumi, mempengaruhi iklim global."
+    }
+]
