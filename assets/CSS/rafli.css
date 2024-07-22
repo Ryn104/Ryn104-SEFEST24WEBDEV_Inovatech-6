@@ -68,10 +68,13 @@
 }
 .donasi button{
     background-color: #E7C873;
-    color: #1F4B43;
     border: none;
     border-radius: 12px;
     text-align: left;
+}
+.donasi button a{
+    text-decoration: none;
+    color: #1F4B43;
 }
 .donasi-button p{
     margin: auto;
