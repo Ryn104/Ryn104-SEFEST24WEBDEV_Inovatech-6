@@ -1,0 +1,65 @@
+/* main */
+* {
+  font-family: "poppins";
+  box-sizing: border-box;
+}
+/* berita terbaru */
+.buton {
+  border-radius: 20px;
+  padding: 5px 20px;
+  font-weight: 500;
+}
+.buton:active {
+  background-color: #e7c873 !important;
+}
+.buton:hover {
+  border: 1px solid black;
+  transition: border 0.5s;
+}
+
+.cardbodi:hover {
+  background-color: rgba(56, 55, 55, 0.2);
+  transition: background-color 1s;
+  cursor: pointer;
+}
+.titel {
+  font-size: 0.8rem;
+  margin-bottom: 8rem;
+  font-weight: 500;
+}
+.subtitel {
+  font-size: 13px;
+  text-transform: capitalize;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+.parap {
+  font-size: 11px;
+}
+.imeg {
+  height: 19rem;
+  border-radius: 15px;
+  object-fit: cover !important;
+  object-position: center !important;
+}
+.cardbodi {
+  background-color: rgba(26, 26, 26, 0.4);
+}
+/* panduan evakuasi */
+.titelpand {
+  align-self: flex-end;
+}
+.pantit {
+  font-size: 1rem;
+  text-align: center;
+}
+.panimeg {
+  height: 17rem;
+  border-radius: 15px;
+  object-fit: cover;
+  object-position: center;
+}
+.panimeg:hover {
+  height: min-content;
+  cursor: pointer;
+}
