@@ -16,7 +16,21 @@
   border: 1px solid black;
   transition: border 0.5s;
 }
-
+.container-ryn {
+  width: 80vw;
+}
+.card-ryn {
+  width: 14.5vw;
+  height: 35vh !important;
+  border-radius: 10px !important;
+  border: none !important;
+}
+.cardbodi {
+  width: 14.3vw;
+  height: 6vh !important;
+  border-radius: 10px !important;
+  background-color: transparent !important;
+}
 .cardbodi:hover {
   background-color: rgba(56, 55, 55, 0.2);
   transition: background-color 1s;
@@ -42,24 +56,25 @@
   object-fit: cover !important;
   object-position: center !important;
 }
-.cardbodi {
-  background-color: rgba(26, 26, 26, 0.4);
-}
 /* panduan evakuasi */
 .titelpand {
   align-self: flex-end;
 }
 .pantit {
-  font-size: 1rem;
-  text-align: center;
+  text-align: left;
+  font-size: 1.5rem;
+  margin-left: 1vw;
 }
 .panimeg {
-  height: 17rem;
   border-radius: 15px;
   object-fit: cover;
   object-position: center;
+  border-radius: 10px !important;
 }
-.panimeg:hover {
-  height: min-content;
+.card-body-ryn:hover {
   cursor: pointer;
+  transform: scale(0.98);
+}
+.panduan-evakuasi .main {
+  margin-bottom: 2vh;
 }
