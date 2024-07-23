@@ -6,6 +6,7 @@
         "lokasi": "Samudra Hindia, dekat pantai barat Sumatra",
         "magnitudo": 9.1,
         "korban_jiwa": 230000,
+        "koordinat": [3.316, 95.854],
         "deskripsi": "Salah satu gempa bumi paling mematikan yang memicu tsunami besar dan menyebabkan kerusakan luas di 14 negara."
     },
     {
@@ -15,6 +16,7 @@
         "lokasi": "Yogyakarta, Jawa Tengah",
         "magnitudo": 6.3,
         "korban_jiwa": 5700,
+        "koordinat": [-7.8014, 110.3644],
         "deskripsi": "Gempa bumi dahsyat yang menghancurkan banyak bangunan dan menyebabkan ribuan korban jiwa di wilayah Yogyakarta dan Jawa Tengah."
     },
     {
@@ -24,6 +26,7 @@
         "lokasi": "Sumatra Barat",
         "magnitudo": 7.6,
         "korban_jiwa": 1117,
+        "koordinat": [-0.9471, 100.4172],
         "deskripsi": "Gempa bumi besar yang menyebabkan kerusakan parah di kota Padang dan sekitarnya."
     },
     {
@@ -33,6 +36,7 @@
         "lokasi": "Lombok, Nusa Tenggara Barat",
         "magnitudo": 6.9,
         "korban_jiwa": 563,
+        "koordinat": [-8.652, 116.308],
         "deskripsi": "Gempa kuat yang menghancurkan ribuan bangunan dan menewaskan ratusan orang di Lombok dan Bali."
     },
     {
@@ -42,6 +46,7 @@
         "lokasi": "Sulawesi Tengah",
         "magnitudo": 7.5,
         "korban_jiwa": 4340,
+        "koordinat": [-0.1782, 119.8463],
         "deskripsi": "Gempa bumi yang memicu tsunami dan likuifaksi di Palu dan Donggala, menyebabkan ribuan korban jiwa."
     },
     {
@@ -51,6 +56,7 @@
         "lokasi": "Maluku Utara",
         "magnitudo": 7.2,
         "korban_jiwa": 14,
+        "koordinat": [1.4195, 126.5221],
         "deskripsi": "Gempa kuat di Maluku Utara yang menyebabkan kerusakan infrastruktur dan korban jiwa."
     },
     {
@@ -60,6 +66,7 @@
         "lokasi": "Bali",
         "magnitudo": 4.8,
         "korban_jiwa": 3,
+        "koordinat": [-8.3405, 115.092],
         "deskripsi": "Gempa bumi yang menyebabkan tanah longsor dan kerusakan di beberapa wilayah di Bali."
     },
     {
@@ -69,6 +76,7 @@
         "lokasi": "Nias, Sumatra Utara",
         "magnitudo": 8.6,
         "korban_jiwa": 1300,
+        "koordinat": [2.0645, 97.102],
         "deskripsi": "Gempa besar yang melanda pulau Nias dan memicu peringatan tsunami di Samudra Hindia."
     },
     {
@@ -78,6 +86,7 @@
         "lokasi": "Papua",
         "magnitudo": 5.4,
         "korban_jiwa": 4,
+        "koordinat": [-2.543, 140.719],
         "deskripsi": "Gempa bumi yang menyebabkan kerusakan bangunan dan beberapa korban jiwa di Papua."
     },
     {
@@ -87,6 +96,7 @@
         "lokasi": "Bengkulu",
         "magnitudo": 8.5,
         "korban_jiwa": 25,
+        "koordinat": [-3.9207, 102.337],
         "deskripsi": "Gempa bumi besar di Bengkulu yang mempengaruhi wilayah pesisir barat Sumatra."
     },
     {
@@ -97,6 +107,7 @@
         "lokasi": "7 km barat daya Nabire",
         "kedalaman": "21 Km",
         "korban_jiwa": 0,
+        "koordinat": [-3.376, 135.509],
         "deskripsi": "Pusat gempa berada di darat 7 km barat daya Nabire."
     },
     {
@@ -107,6 +118,7 @@
         "lokasi": "12 km barat laut Halmahera Utara",
         "kedalaman": "10 Km",
         "korban_jiwa": 0,
+        "koordinat": [1.701, 127.866],
         "deskripsi": "Pusat gempa berada di darat 12 km barat laut Halmahera Utara."
     },
     {
@@ -117,6 +129,7 @@
         "lokasi": "52 km timur laut Kobagma",
         "kedalaman": "23 Km",
         "korban_jiwa": 0,
+        "koordinat": [-3.381, 138.333],
         "deskripsi": "Pusat gempa berada di darat 52 km timur laut Kobagma."
     },
     {
@@ -127,6 +140,7 @@
         "lokasi": "34 km barat laut Luwu Timur",
         "kedalaman": "5 Km",
         "korban_jiwa": 0,
+        "koordinat": [-2.466, 121.194],
         "deskripsi": "Pusat gempa berada di darat 34 km barat laut Luwu Timur."
     },
     {
@@ -137,6 +151,7 @@
         "lokasi": "18 km tenggara Ambon",
         "kedalaman": "15 Km",
         "korban_jiwa": 0,
+        "koordinat": [-3.855, 128.202],
         "deskripsi": "Pusat gempa berada di laut 18 km tenggara Ambon."
     },
     {
@@ -147,6 +162,7 @@
         "lokasi": "111 km tenggara Bitung",
         "kedalaman": "10 Km",
         "korban_jiwa": 0,
+        "koordinat": [0.703, 126.683],
         "deskripsi": "Pusat gempa berada di laut 111 km tenggara Bitung."
     },
     {
@@ -157,6 +173,7 @@
         "lokasi": "17 km timur laut Wonosobo",
         "kedalaman": "20 Km",
         "korban_jiwa": 0,
+        "koordinat": [-7.274, 109.934],
         "deskripsi": "Pusat gempa berada di darat 17 km timur laut Wonosobo."
     },
     {
@@ -167,6 +184,7 @@
         "lokasi": "72 km barat daya Seluma",
         "kedalaman": "36 Km",
         "korban_jiwa": 0,
+        "koordinat": [-4.206, 102.188],
         "deskripsi": "Pusat gempa berada di laut 72 km barat daya Seluma."
     },
     {
@@ -177,6 +195,7 @@
         "lokasi": "2 km barat daya Sidenreng Rappang",
         "kedalaman": "5 Km",
         "korban_jiwa": 0,
+        "koordinat": [-3.677, 119.851],
         "deskripsi": "Pusat gempa berada di darat 2 km barat daya Sidenreng Rappang."
     },
     {
@@ -187,6 +206,7 @@
         "lokasi": "37 km barat laut Luwu Timur",
         "kedalaman": "5 Km",
         "korban_jiwa": 0,
+        "koordinat": [-2.466, 121.204],
         "deskripsi": "Pusat gempa berada di darat 37 km barat laut Luwu Timur."
     },
     {
@@ -197,6 +217,7 @@
         "lokasi": "10 km tenggara Batang",
         "kedalaman": "12 Km",
         "korban_jiwa": 0,
+        "koordinat": [-7.096, 110.240],
         "deskripsi": "Pusat gempa berada di darat 10 km tenggara Batang."
     },
     {
@@ -207,6 +228,7 @@
         "lokasi": "25 km barat daya Buleleng",
         "kedalaman": "12 Km",
         "korban_jiwa": 0,
+        "koordinat": [-8.444, 114.963],
         "deskripsi": "Pusat gempa berada di laut 25 km barat daya Buleleng."
     },
     {
@@ -217,6 +239,7 @@
         "lokasi": "8 km barat daya Kabaena Tengah",
         "kedalaman": "5 Km",
         "korban_jiwa": 0,
+        "koordinat": [-5.518, 121.873],
         "deskripsi": "Pusat gempa berada di darat 8 km barat daya Kabaena Tengah."
     },
     {
@@ -227,6 +250,7 @@
         "lokasi": "39 km barat laut Kota Jayapura",
         "kedalaman": "10 Km",
         "korban_jiwa": 0,
+        "koordinat": [-2.417, 140.606],
         "deskripsi": "Pusat gempa berada di laut 39 km barat laut Kota Jayapura."
     },
     {
@@ -237,6 +261,7 @@
         "lokasi": "46 km tenggara Sawai-Maluku Tengah",
         "kedalaman": "15 Km",
         "korban_jiwa": 0,
+        "koordinat": [-2.882, 129.265],
         "deskripsi": "Pusat gempa berada di darat 46 km tenggara Sawai-Maluku Tengah."
     },
     {
@@ -247,6 +272,7 @@
         "lokasi": "46 km barat daya Konawe Kepulauan",
         "kedalaman": "5 Km",
         "korban_jiwa": 0,
+        "koordinat": [-3.470, 123.095],
         "deskripsi": "Pusat gempa berada di darat 46 km barat daya Konawe Kepulauan."
     },
     {
@@ -257,6 +283,7 @@
         "lokasi": "6 km barat daya Batang",
         "kedalaman": "5 Km",
         "korban_jiwa": 0,
+        "koordinat": [-7.028, 110.153],
         "deskripsi": "Pusat gempa berada di darat 6 km barat daya Batang."
     },
     {
@@ -267,6 +294,7 @@
         "lokasi": "127 km barat laut Jailolo",
         "kedalaman": "10 Km",
         "korban_jiwa": 0,
+        "koordinat": [2.093, 126.713],
         "deskripsi": "Pusat gempa berada di laut 127 km barat laut Jailolo."
     },
     {
@@ -277,6 +305,7 @@
         "lokasi": "8 km timur laut Sumbawa",
         "kedalaman": "12 Km",
         "korban_jiwa": 0,
+        "koordinat": [-8.456, 117.447],
         "deskripsi": "Pusat gempa berada di darat 8 km timur laut Sumbawa."
     },
     {
@@ -287,6 +316,57 @@
         "lokasi": "19 km barat laut Subulussalam",
         "kedalaman": "45 Km",
         "korban_jiwa": 0,
+        "koordinat": [2.708, 97.749],
         "deskripsi": "Pusat gempa berada di darat 19 km barat laut Subulussalam."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Kalimantan Barat 2021",
+        "tanggal": "2021-01-14",
+        "lokasi": "Kalimantan Barat",
+        "magnitudo": "6.2",
+        "korban_jiwa": 0,
+        "koordinat": [0.1, 109.4],
+        "deskripsi": "Gempa bumi dengan magnitudo 6.2 yang mengguncang Kalimantan Barat, menyebabkan kerusakan ringan pada bangunan."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Kalimantan Timur 2020",
+        "tanggal": "2020-10-29",
+        "lokasi": "Kalimantan Timur",
+        "magnitudo": "5.8",
+        "korban_jiwa": 1,
+        "koordinat": [0.3, 117.2],
+        "deskripsi": "Gempa bumi dengan magnitudo 5.8 di Kalimantan Timur, menyebabkan beberapa kerusakan struktural dan satu korban jiwa."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Kalimantan Selatan 2019",
+        "tanggal": "2019-08-05",
+        "lokasi": "Kalimantan Selatan",
+        "magnitudo": "5.6",
+        "korban_jiwa": 0,
+        "koordinat": [-3.1, 115.5],
+        "deskripsi": "Gempa bumi dengan magnitudo 5.6 mengguncang Kalimantan Selatan, menimbulkan beberapa kerusakan ringan pada infrastruktur."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Kalimantan Tengah 2018",
+        "tanggal": "2018-05-02",
+        "lokasi": "Kalimantan Tengah",
+        "magnitudo": "5.4",
+        "korban_jiwa": 0,
+        "koordinat": [-1.0, 113.5],
+        "deskripsi": "Gempa bumi dengan magnitudo 5.4 terjadi di Kalimantan Tengah, menyebabkan kerusakan minor dan tidak ada laporan korban jiwa."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bumi Kalimantan Barat 2016",
+        "tanggal": "2016-09-08",
+        "lokasi": "Kalimantan Barat",
+        "magnitudo": "5.7",
+        "korban_jiwa": 0,
+        "koordinat": [0.0, 109.5],
+        "deskripsi": "Gempa bumi dengan magnitudo 5.7 mengguncang Kalimantan Barat, menyebabkan kerusakan pada beberapa bangunan."
     }
 ]

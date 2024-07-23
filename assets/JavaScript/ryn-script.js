@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // -----------------------------------------------------------DATA REALTIME
 document.addEventListener('DOMContentLoaded', () => {
-  const dataUrl = 'assets/json/realtime.json'; // URL file JSON
+  const dataUrl = 'assets/json/realtime.json'; 
   const rowsPerPage = 15;
   let currentPage = 1;
   let totalPages = 0;
@@ -37,7 +37,6 @@ document.addEventListener('DOMContentLoaded', () => {
                   displayData();
               }
           });
-          // No filter event listeners here
       } catch (error) {
           console.error('There was a problem with the fetch operation:', error);
       }
@@ -100,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
   }
 
-  fetchData(); // Ambil dan tampilkan data saat halaman dimuat
+  fetchData(); 
 });
 // -----------------------------------------------------------END DATA REALTIME
 
@@ -138,7 +137,7 @@ function ambilData(tipe) {
       .then(response => response.json())
       .then(data => {
           setupPagination(data);
-          tampilkanData(data, 1); // Display the first page initially
+          tampilkanData(data, 1); 
       })
       .catch(error => console.error('Error:', error));
 }
@@ -210,7 +209,6 @@ function updatePagination() {
   document.querySelector('#nextPagePusatData').style.visibility = currentPage < totalPages ? 'visible' : 'hidden';
 }
 
-// Pagination functions
 function prevPage() {
   if (currentPage > 1) {
       tampilkanData(data, currentPage - 1);
@@ -223,7 +221,6 @@ function nextPage() {
   }
 }
 
-// Sort function for magnitude
 function sortMagnitude() {
   sortOrder = sortOrder === 'asc' ? 'desc' : 'asc';
   data.sort((a, b) => {
@@ -233,16 +230,14 @@ function sortMagnitude() {
   });
   tampilkanData(data, 1);
 
-  // Update sort indicator
   const sortIndicator = document.getElementById('sort-indicator');
   if (sortOrder === 'asc') {
-    sortIndicator.innerHTML = '&darr;'; // Down arrow
+    sortIndicator.innerHTML = '&darr;'; 
   } else {
-    sortIndicator.innerHTML = '&uarr;'; // Up arrow
+    sortIndicator.innerHTML = '&uarr;'; 
   }
 }
 
-// Event listener for dropdown menu
 document.getElementById('data-select').addEventListener('change', function() {
   const tipe = this.value;
   if (tipe) {

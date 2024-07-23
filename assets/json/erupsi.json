@@ -6,6 +6,7 @@
         "lokasi": "Selat Sunda",
         "magnitudo": "-",
         "korban_jiwa": 36000,
+        "koordinat": [-6.1, 105.4],
         "deskripsi": "Letusan dahsyat yang memicu tsunami besar dan menyebabkan perubahan iklim global."
     },
     {
@@ -15,6 +16,7 @@
         "lokasi": "Sumbawa, Nusa Tenggara Barat",
         "magnitudo": "-",
         "korban_jiwa": 71000,
+        "koordinat": [-8.25, 118.0],
         "deskripsi": "Letusan terbesar dalam sejarah yang menyebabkan 'Tahun Tanpa Musim Panas' di belahan bumi utara."
     },
     {
@@ -24,6 +26,7 @@
         "lokasi": "Yogyakarta, Jawa Tengah",
         "magnitudo": "-",
         "korban_jiwa": 353,
+        "koordinat": [-7.54, 110.46],
         "deskripsi": "Salah satu letusan terkuat dalam dekade terakhir yang menyebabkan evakuasi massal."
     },
     {
@@ -33,6 +36,7 @@
         "lokasi": "Bali",
         "magnitudo": "-",
         "korban_jiwa": 1600,
+        "koordinat": [-8.34, 115.51],
         "deskripsi": "Letusan yang merusak ribuan rumah dan menyebabkan banyak korban jiwa."
     },
     {
@@ -42,6 +46,7 @@
         "lokasi": "Jawa Timur",
         "magnitudo": "-",
         "korban_jiwa": 7,
+        "koordinat": [-7.93, 112.33],
         "deskripsi": "Letusan menyebabkan hujan abu di banyak kota besar di Jawa."
     },
     {
@@ -51,6 +56,7 @@
         "lokasi": "Sumatera Utara",
         "magnitudo": "-",
         "korban_jiwa": 7,
+        "koordinat": [3.17, 98.39],
         "deskripsi": "Letusan menyebabkan evakuasi ribuan orang dan merusak lahan pertanian."
     },
     {
@@ -60,6 +66,7 @@
         "lokasi": "Jawa Barat",
         "magnitudo": "-",
         "korban_jiwa": 68,
+        "koordinat": [-7.32, 108.25],
         "deskripsi": "Letusan menyebabkan gangguan penerbangan internasional dan menewaskan puluhan orang."
     },
     {
@@ -69,6 +76,7 @@
         "lokasi": "Jawa Timur",
         "magnitudo": "-",
         "korban_jiwa": 51,
+        "koordinat": [-8.06, 112.92],
         "deskripsi": "Letusan menyebabkan evakuasi ribuan penduduk dan kerusakan parah di beberapa desa."
     },
     {
@@ -78,6 +86,7 @@
         "lokasi": "Lombok, Nusa Tenggara Barat",
         "magnitudo": "-",
         "korban_jiwa": 0,
+        "koordinat": [-8.42, 116.43],
         "deskripsi": "Letusan menyebabkan pembatalan penerbangan dan evakuasi penduduk sekitar."
     },
     {
@@ -87,6 +96,7 @@
         "lokasi": "Sumatera Utara",
         "magnitudo": "-",
         "korban_jiwa": "Tidak diketahui",
+        "koordinat": [2.9, 99.0],
         "deskripsi": "Salah satu letusan supervolcano terbesar dalam sejarah geologi bumi, mempengaruhi iklim global."
     },
     {
@@ -96,6 +106,7 @@
         "lokasi": "Bali",
         "magnitudo": "-",
         "korban_jiwa": 0,
+        "koordinat": [-8.34, 115.51],
         "deskripsi": "Letusan menyebabkan evakuasi ribuan orang dan gangguan penerbangan internasional."
     },
     {
@@ -105,6 +116,7 @@
         "lokasi": "Sulawesi Utara",
         "magnitudo": "-",
         "korban_jiwa": 0,
+        "koordinat": [1.52, 124.78],
         "deskripsi": "Letusan mengeluarkan abu vulkanik setinggi 3.500 meter dan menyebabkan evakuasi."
     },
     {
@@ -114,6 +126,7 @@
         "lokasi": "Sulawesi Utara",
         "magnitudo": "-",
         "korban_jiwa": 0,
+        "koordinat": [1.11, 124.83],
         "deskripsi": "Letusan menyebabkan abu tebal menutupi wilayah sekitar."
     },
     {
@@ -123,6 +136,7 @@
         "lokasi": "Yogyakarta, Jawa Tengah",
         "magnitudo": "-",
         "korban_jiwa": 2,
+        "koordinat": [-7.54, 110.46],
         "deskripsi": "Letusan terjadi bersamaan dengan gempa bumi Yogyakarta yang dahsyat."
     },
     {
@@ -132,6 +146,7 @@
         "lokasi": "Jawa Timur",
         "magnitudo": "-",
         "korban_jiwa": 0,
+        "koordinat": [-7.94, 112.95],
         "deskripsi": "Letusan menyebabkan bandara di Malang dan Surabaya ditutup sementara."
     },
     {
@@ -141,6 +156,7 @@
         "lokasi": "Flores, Nusa Tenggara Timur",
         "magnitudo": "-",
         "korban_jiwa": 0,
+        "koordinat": [-8.75, 121.02],
         "deskripsi": "Letusan menghasilkan danau kawah yang terkenal dengan perubahan warna airnya."
     },
     {
@@ -150,6 +166,7 @@
         "lokasi": "Siau, Sulawesi Utara",
         "magnitudo": "-",
         "korban_jiwa": 4,
+        "koordinat": [2.76, 125.35],
         "deskripsi": "Letusan menyebabkan aliran lava yang mengancam desa-desa sekitar."
     },
     {
@@ -159,6 +176,7 @@
         "lokasi": "Jawa Timur",
         "magnitudo": "-",
         "korban_jiwa": 0,
+        "koordinat": [-8.05, 113.72],
         "deskripsi": "Letusan kecil dengan pelepasan gas beracun yang mempengaruhi kawasan wisata."
     },
     {
@@ -168,6 +186,7 @@
         "lokasi": "Nusa Tenggara Barat",
         "magnitudo": "-",
         "korban_jiwa": 0,
+        "koordinat": [-8.195521053591735, 119.0696891884547],
         "deskripsi": "Letusan menyebabkan pembatalan penerbangan di wilayah Australia."
     },
     {
@@ -177,6 +196,7 @@
         "lokasi": "Sumatera Utara",
         "magnitudo": "-",
         "korban_jiwa": 16,
+        "koordinat": [3.17, 98.39],
         "deskripsi": "Letusan yang mematikan mengakibatkan korban jiwa dan evakuasi besar-besaran."
     },
     {
@@ -186,6 +206,7 @@
         "lokasi": "Jawa Timur",
         "magnitudo": "-",
         "korban_jiwa": 32,
+        "koordinat": [-7.93, 112.33],
         "deskripsi": "Letusan besar dengan awan panas yang mematikan, menyebabkan ribuan orang mengungsi."
     },
     {
@@ -195,6 +216,7 @@
         "lokasi": "Nusa Tenggara Timur",
         "magnitudo": "-",
         "korban_jiwa": 6,
+        "koordinat": [-8.25, 121.5],
         "deskripsi": "Letusan mengakibatkan korban jiwa dan evakuasi penduduk pulau terdekat."
     },
     {
@@ -204,6 +226,7 @@
         "lokasi": "Jawa Tengah",
         "magnitudo": "-",
         "korban_jiwa": 0,
+        "koordinat": [-7.35, 109.2],
         "deskripsi": "Letusan menyebabkan abu tebal menyelimuti kota-kota di sekitarnya."
     },
     {
@@ -213,6 +236,7 @@
         "lokasi": "Jawa Timur",
         "magnitudo": "-",
         "korban_jiwa": 0,
+        "koordinat": [-8.09, 114.48],
         "deskripsi": "Letusan menyebabkan penutupan bandara dan gangguan penerbangan di wilayah Bali."
     },
     {
@@ -222,6 +246,7 @@
         "lokasi": "Sumatera Barat",
         "magnitudo": "-",
         "korban_jiwa": 0,
+        "koordinat": [-0.24, 100.32],
         "deskripsi": "Letusan menyebabkan abu vulkanik mencapai kota-kota di sekitar."
     },
     {
@@ -231,6 +256,28 @@
         "lokasi": "Jawa Tengah",
         "magnitudo": "-",
         "korban_jiwa": 149,
+        "koordinat": [-7.21, 109.92],
         "deskripsi": "Letusan freatik menyebabkan pelepasan gas beracun yang mematikan."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Palung 1984",
+        "tanggal": "1984-05-04",
+        "lokasi": "Kalimantan Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "koordinat": [-1.2, 110.4],
+        "deskripsi": "Letusan kecil yang menyebabkan gangguan lokal."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Gamkonora 2010",
+        "tanggal": "2010-11-18",
+        "lokasi": "Kalimantan Tengah",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "koordinat": [-2.8, 115.2],
+        "deskripsi": "Letusan menyebabkan hujan abu ringan di sekitar wilayah."
     }
+
 ]
