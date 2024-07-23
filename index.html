@@ -53,10 +53,10 @@
               <a class="nav-link text-white" aria-current="page" href="#">Beranda</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-white" aria-current="page" href="#">Panduan Evakuasi</a>
+              <a class="nav-link text-white" aria-current="page" href="#Informasi">Informasi</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-white" aria-current="page" href="#">Informasi</a>
+              <a class="nav-link text-white" aria-current="page" href="#">Panduan Evakuasi</a>
             </li>
             <li class="nav-item">
               <a class="nav-link text-white" aria-current="page" href="#">Berita</a>
@@ -82,7 +82,7 @@
   </header>
 
   <!-- Informasi Bencana -->
-  <section class="informasi-bencana">
+  <section class="informasi-bencana" id="Informasi">
     <div class="main">
       <h1 class="judul">Informasi Bencana Alam</h1>
       <div class="d-flex justify-content-center">
@@ -96,129 +96,37 @@
             class="btn-color-mode-switch-inner"></label>
         </label>
       </div>
-      <!-- Data Real Time -->
+      <!-- Data Real Time -->                     
       <div class="data collapse show" id="DataRealTime">
-        <table class="table table-hover">
+        <table class="table table-hover" id="dataTable">
           <thead>
             <tr>
-              <th scope="col" style="width: 10%; text-align: center;">Bencana Alam</th>
-              <th scope="col" style="width: 25%;">Nama</th>
-              <th scope="col" style="width: 15%;">Tanggal</th>
-              <th scope="col" style="width: 30%;">Lokasi</th>
+              <th scope="col" style="width: 20%; text-align: center;">Lokasi</th>
+              <th scope="col" style="width: 10%; text-align: center;">Lintang</th>
+              <th scope="col" style="width: 10%; text-align: center;">Bujur</th>
               <th scope="col" style="width: 10%; text-align: center;">Magnitudo</th>
-              <th scope="col" style="width: 10%; text-align: center;">Korban Jiwa</th>
+              <th scope="col" style="width: 10%; text-align: center;">Kedalaman (Km)</th>
+              <th scope="col" style="width: 20%; text-align: center;">Waktu</th>
+              <th scope="col" style="width: 20%; text-align: center;">Tanggal</th>
             </tr>
           </thead>
-          <tbody id="">
-            <tr>
-              <th scope="row" style="text-align: center;">Tsunami</th>
-              <td>Tsunami Aceh</td>
-              <td>26 Desember 2004</td>
-              <td>Samudra Hindia, dekat pantai barat Sumatra</td>
-              <td style="text-align: center;">9,1</td>
-              <td style="text-align: center;">230.000</td>
-            </tr>
-            <tr>
-              <th scope="row" style="text-align: center;">Gempa</th>
-              <td>Gempa Bumi Yogyakarta</td>
-              <td>27 Mei 2006</td>
-              <td>Yogyakarta, Jawa Tengah</td>
-              <td style="text-align: center;">6,1</td>
-              <td style="text-align: center;">5.700</td>
-            </tr>
-            <tr>
-              <th scope="row" style="text-align: center;">Gempa</th>
-              <td>Gempa Bumi Yogyakarta</td>
-              <td>27 Mei 2006</td>
-              <td>Yogyakarta, Jawa Tengah</td>
-              <td style="text-align: center;">6,1</td>
-              <td style="text-align: center;">5.700</td>
-            </tr>
-            <tr>
-              <th scope="row" style="text-align: center;">Gempa</th>
-              <td>Gempa Bumi Yogyakarta</td>
-              <td>27 Mei 2006</td>
-              <td>Yogyakarta, Jawa Tengah</td>
-              <td style="text-align: center;">6,1</td>
-              <td style="text-align: center;">5.700</td>
-            </tr>
-            <tr>
-              <th scope="row" style="text-align: center;">Gempa</th>
-              <td>Gempa Bumi Yogyakarta</td>
-              <td>27 Mei 2006</td>
-              <td>Yogyakarta, Jawa Tengah</td>
-              <td style="text-align: center;">6,1</td>
-              <td style="text-align: center;">5.700</td>
-            </tr>
-            <tr>
-              <th scope="row" style="text-align: center;">Gempa</th>
-              <td>Gempa Bumi Yogyakarta</td>
-              <td>27 Mei 2006</td>
-              <td>Yogyakarta, Jawa Tengah</td>
-              <td style="text-align: center;">6,1</td>
-              <td style="text-align: center;">5.700</td>
-            </tr>
-            <tr>
-              <th scope="row" style="text-align: center;">Gempa</th>
-              <td>Gempa Bumi Yogyakarta</td>
-              <td>27 Mei 2006</td>
-              <td>Yogyakarta, Jawa Tengah</td>
-              <td style="text-align: center;">6,1</td>
-              <td style="text-align: center;">5.700</td>
-            </tr>
-            <tr>
-              <th scope="row" style="text-align: center;">Gempa</th>
-              <td>Gempa Bumi Yogyakarta</td>
-              <td>27 Mei 2006</td>
-              <td>Yogyakarta, Jawa Tengah</td>
-              <td style="text-align: center;">6,1</td>
-              <td style="text-align: center;">5.700</td>
-            </tr>
-            <tr>
-              <th scope="row" style="text-align: center;">Gempa</th>
-              <td>Gempa Bumi Yogyakarta</td>
-              <td>27 Mei 2006</td>
-              <td>Yogyakarta, Jawa Tengah</td>
-              <td style="text-align: center;">6,1</td>
-              <td style="text-align: center;">5.700</td>
-            </tr>
-            <tr>
-              <th scope="row" style="text-align: center;">Gempa</th>
-              <td>Gempa Bumi Yogyakarta</td>
-              <td>27 Mei 2006</td>
-              <td>Yogyakarta, Jawa Tengah</td>
-              <td style="text-align: center;">6,1</td>
-              <td style="text-align: center;">5.700</td>
-            </tr>
-            <tr>
-              <th scope="row" style="text-align: center;">Gempa</th>
-              <td>Gempa Bumi Yogyakarta</td>
-              <td>27 Mei 2006</td>
-              <td>Yogyakarta, Jawa Tengah</td>
-              <td style="text-align: center;">6,1</td>
-              <td style="text-align: center;">5.700</td>
-            </tr>
+          <tbody>
+            
           </tbody>
         </table>
         <div class="page d-flex justify-content-between">
-          <div class="btn btn-light d-flex align-items-center justify-content-center gap-2">
-            <img src="assets/Icon/arrow-left-page.png" alt="">
-            <p>Previous</p>
+          <div id="prevPage" class="btn btn-light d-flex align-items-center justify-content-center gap-2">
+              <img src="assets/Icon/arrow-left-page.png" alt="">
+              <p>Previous</p>
           </div>
-          <div class="d-flex gap-2">
-            <div class="btn btn-light">1</div>
-            <div class="btn btn-light">2</div>
-            <div class="btn btn-light">3</div>
-            <div class="btn btn-light">...</div>
-            <div class="btn btn-light">8</div>
-            <div class="btn btn-light">9</div>
-            <div class="btn btn-light">10</div>
+          <div id="pagination" class="d-flex gap-2">
+              <!-- Page numbers will be dynamically added here -->
           </div>
-          <div class="btn btn-light d-flex align-items-center justify-content-center gap-2">
-            <p>Next</p>
-            <img src="assets/Icon/arrow-right-page.png" alt="">
+          <div id="nextPage" class="btn btn-light d-flex align-items-center justify-content-center gap-2">
+              <p>Next</p>
+              <img src="assets/Icon/arrow-right-page.png" alt="">
           </div>
-        </div>
+      </div>
       </div>
       <!-- End Data Real Time -->
       <!-- Pusat Data -->
@@ -252,24 +160,18 @@
           </tbody>
         </table>
         <div class="page d-flex justify-content-between">
-          <div class="btn btn-light d-flex align-items-center justify-content-center gap-2">
-            <img src="assets/Icon/arrow-left-page.png" alt="">
-            <p>Previous</p>
+          <div id="prevPagePusatData" class="btn btn-light d-flex align-items-center justify-content-center gap-2">
+              <img src="assets/Icon/arrow-left-page.png" alt="">
+              <p>Previous</p>
           </div>
-          <div class="d-flex gap-2">
-            <div class="btn btn-light">1</div>
-            <div class="btn btn-light">2</div>
-            <div class="btn btn-light">3</div>
-            <div class="btn btn-light">...</div>
-            <div class="btn btn-light">8</div>
-            <div class="btn btn-light">9</div>
-            <div class="btn btn-light">10</div>
+          <div id="paginationPusatData" class="d-flex gap-2">
+              <!-- Page numbers will be dynamically added here -->
           </div>
-          <div class="btn btn-light d-flex align-items-center justify-content-center gap-2">
-            <p>Next</p>
-            <img src="assets/Icon/arrow-right-page.png" alt="">
+          <div id="nextPagePusatData" class="btn btn-light d-flex align-items-center justify-content-center gap-2">
+              <p>Next</p>
+              <img src="assets/Icon/arrow-right-page.png" alt="">
           </div>
-        </div>
+      </div>
       </div>
       <!-- End Pusat Data -->
     </div>
@@ -312,7 +214,7 @@
         </div>
       </div>
       <div class="d-flex justify-content-center mt-5 pt-4">
-        <!-- Value Timeline -->
+      <!-- Value Timeline -->
         <div class="d-flex justify-content-between align-items-center value-timeline" id="ValueTimeline">
           <div>
             <p>Kejadian Terparah di Tahun 2004</p>
@@ -343,8 +245,7 @@
                 <tr>
                   <td class="align-baseline penyebut">Deskripsi</td>
                   <td class="align-baseline">:</td>
-                  <td>Salah satu gempa bumi paling mematikan yang memicu tsunami besar dan menyebabkan kerusakan luas di
-                    14
+                  <td>Salah satu gempa bumi paling mematikan yang memicu tsunami besar dan menyebabkan kerusakan luas di 14
                     negara.</td>
                 </tr>
               </table>
