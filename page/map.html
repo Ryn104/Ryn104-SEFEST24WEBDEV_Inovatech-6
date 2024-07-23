@@ -17,6 +17,7 @@
       margin: 0 auto;
       border-radius: 10px;
     }
+
     .info-card {
       position: absolute;
       bottom: 100px;
@@ -24,8 +25,9 @@
       background: white;
       padding: 10px 20px 10px 20px;
       border-radius: 5px;
-      box-shadow: 0 0 15px rgba(0,0,0,0.2);
-      z-index: 1000; /* Memastikan kartu berada di depan */
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+      z-index: 1000;
+      /* Memastikan kartu berada di depan */
       font-family: 'Poppins', sans-serif;
     }
   </style>
@@ -46,7 +48,7 @@
       [6, 141]  // North East Indonesia
     ];
     map.setMaxBounds(bounds);
-    map.on('drag', function() {
+    map.on('drag', function () {
       map.panInsideBounds(bounds, { animate: false });
     });
 
@@ -81,8 +83,29 @@
       }
     };
 
+    // Ikon Kustom
+    var iconGempa = L.divIcon({
+      html: '<img src="../assets/image/gempa.svg" style="width:25px;"/>',
+      className: 'wave-div-icon',
+      iconSize: [30, 30],
+      iconAnchor: [15, 15]
+    });
+    var iconTsunami = L.divIcon({
+      html: '<img src="../assets/image/tsunami.svg" style="width:25px;"/>',
+      className: 'wave-div-icon',
+      iconSize: [30, 30],
+      iconAnchor: [15, 15]
+    });
+    var iconVolcano = L.divIcon({
+      html: '<img src="../assets/image/volcano.svg" style="width:25px;"/>',
+      className: 'wave-div-icon',
+      iconSize: [30, 30],
+      iconAnchor: [15, 15]
+    });
+
+
     for (var region in regions) {
-      L.marker(regions[region].coords).addTo(map).on('click', function(e) {
+      L.marker(regions[region].coords, { icon: iconGempa }).addTo(map).on('click', function (e) {
         var regionName = this.getPopup().getContent();
         document.getElementById('region-title').innerText = regionName;
         document.getElementById('disaster-info').innerText = regions[regionName].disasters;
