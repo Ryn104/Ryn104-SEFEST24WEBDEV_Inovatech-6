@@ -4,6 +4,20 @@
     font-family: "Poppins", sans-serif;
 }
 
+/* panduan start */
+.panduan-button-modal{
+    border: none;
+    background-color: transparent;
+}
+.modal-body img{
+    width: 100%;
+}
+.modal-body{
+    width: fit-content;
+}
+
+/* panduan end */
+
 /* youtube start */
 .youtube{
     justify-content: center;
@@ -39,6 +53,10 @@
     margin: 0 auto;
     margin-top: 7rem;
     margin-bottom: 6rem;
+}
+.donasi-lp{
+    margin-top: 7rem !important;
+    margin-bottom: 6rem !important; 
 }
 .donasi-text{
     padding: 50px;

@@ -82,4 +82,10 @@ img.donasi-img {
     display: none;
 }
 
+/* modal */
+.modal{
+    width: max-content;
+    margin: 0 auto;
+}
+
 /* donasi end */

@@ -4,20 +4,8 @@
 
 /* Header */
 nav {
+    margin: 2.2% 4%;
     align-items: center;
-}
-.navbar {
-    padding: 2.2% 4% !important;
-}
-.navbar-blur {
-    backdrop-filter: blur(5px);
-    background-image: linear-gradient(
-      to bottom, 
-      rgba(0, 0, 0, 0.541), /* Warna gelap di bagian atas */
-      rgba(255, 255, 255, 0) /* Warna terang di bagian bawah */
-    );
-    background-color: rgba(255, 255, 255, 0.3); /* Warna dasar yang lebih gelap */
-    transition: backdrop-filter 0.3s, background-color 0.3s;
 }
 .logo-siaga {
     width: 39% !important;
