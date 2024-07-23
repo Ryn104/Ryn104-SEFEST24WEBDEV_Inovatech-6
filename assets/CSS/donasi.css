@@ -87,5 +87,7 @@ img.donasi-img {
     width: max-content;
     margin: 0 auto;
 }
-
+.modal-footer{
+    justify-content: space-between;
+}
 /* donasi end */
