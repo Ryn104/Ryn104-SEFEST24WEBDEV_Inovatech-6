@@ -7,22 +7,33 @@
 body{
     background-color: #757575;
 }
+.nav-card {
+    height: 12vh;
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,0.4542191876750701) 0%, rgba(0,0,0,0) 100%);
+}
 
 /* donasi start */
 .donasi{
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
     border-radius: 10px;
 }
 .donasi-tanggal{
-    margin-bottom: 12.5rem;
+    margin-bottom: 26rem;
+    font-size: 16px;
 }
 .donasi-carousel {
-    padding: 1rem;
+    padding: 0.5rem;
     background-color: #FFFFFF;
 }
+.carousel-judul {
+    font-size: 25px;
+    font-weight: 600;
+}
 .carousel-caption{
-    margin-left: -7rem;
+    margin-left: -13rem;
+    font-size: 20px;
 }
 .donasi-card{
     background-color: #FFFFFF;
@@ -56,18 +67,19 @@ img.donasi-img {
     color: #1F4B43;
 }
 .donasi-list{
-    width: 60%;
+    width: 100%;
     background-color: #FFFFFF;
     margin: 0 auto;
     align-items: center;
     justify-content: center;
-    gap: 10px;
-    padding: 1rem;
-    border-radius: 15px;
+    gap: 5vw;
+    padding: 2rem;
+    border-radius: 10px;
+    font-size: 20px;
 }
 .donasi-list button{
-    border-radius: 15px;
-    padding: 1rem;
+    border-radius: 10px;
+    padding: 1rem 3rem;
     border: none;
     background-color: #FFFFFF;
 }

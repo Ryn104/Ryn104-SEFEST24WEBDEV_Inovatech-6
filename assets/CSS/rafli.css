@@ -47,16 +47,16 @@
 /* Donasi start */
 .donasi{
     background-color: #1F4B43;
-    border-radius: 15px;
-    width: 60rem;
-    height: 25rem;
+    border-radius: 10px;
+    width: 70vw !important;
+    height: 45vh;
     margin: 0 auto;
     margin-top: 7rem;
     margin-bottom: 6rem;
 }
 .donasi-lp{
-    margin-top: 7rem !important;
-    margin-bottom: 6rem !important; 
+    margin-top: 10vh !important;
+    margin-bottom: 10vh !important; 
 }
 .donasi-text{
     padding: 50px;
@@ -70,24 +70,24 @@
 }
 .donasi-text-highlight{
     padding: 10px;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: 200;
     margin: 10px;
 }
 .donasi-text-title{
     font-weight: 500;
-    font-size: 24px;
-    line-height: 25px;
+    font-size: 35px;
+    line-height: 35px;
 }
 .donasi-text-deskripsi{
     font-weight: 300;
-    font-size: 12px;
+    font-size: 16px;
     width: 110%;
 }
 .donasi button{
     background-color: #E7C873;
     border: none;
-    border-radius: 12px;
+    border-radius: 10px;
     text-align: left;
 }
 .donasi button a{
@@ -95,6 +95,7 @@
     color: #1F4B43;
 }
 .donasi-button p{
+    font-size: 16px;
     margin: auto;
 }
 .donasi-button-icon{
@@ -103,16 +104,18 @@
     padding-left: 8px;
 }
 .donasi-image{
-    margin-left: 8rem;
-    margin-top: -20px;
+    margin-top: -4vh;
 }
 .donasi-image img{
-    width: 25rem;
+    width: 25vw;
 }
 
 /* Donasi end */
 
 /* Footer start */
+.footer {
+    margin: 0px;
+}
 .footer-kiri{
     width: 70%;
 }

@@ -43,7 +43,7 @@
   <header id="Header">
     <nav class="navbar navbar-expand-lg fixed-top bg-transparent">
       <div class="container-fluid ">
-        <a class="text-white logo-siaga" href="#">SIAGA</a>
+        <a class="text-white logo-siaga" href="index.html">SIAGA</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
           aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -51,23 +51,23 @@
         <div class="collapse navbar-collapse" id="navbarScroll">
           <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
             <li class="nav-item">
-              <a class="nav-link text-white" aria-current="page" href="#">Beranda</a>
+              <a class="nav-link text-white" aria-current="page" href="index.html">Beranda</a>
             </li>
             <li class="nav-item">
               <a class="nav-link text-white" aria-current="page" href="#Informasi">Informasi</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-white" aria-current="page" href="#">Panduan Evakuasi</a>
+              <a class="nav-link text-white" aria-current="page" href="#Infografis">Infografis</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-white" aria-current="page" href="#">Berita</a>
+              <a class="nav-link text-white" aria-current="page" href="#Panduan">Panduan</a>
             </li>
             <li class="nav-item">
               <a class="nav-link text-white" aria-current="page" href="#"></a>
             </li>
           </ul>
-          <form class="d-flex" role="search">
-            <a href="#"></a><button class="btn btn-outline-light rounded-pill px-4">Donasi</button></a>
+          <form class="d-flex">
+            <button class="btn btn-outline-light rounded-pill px-4"><a href="page/donasi.html" style="text-decoration: none; color: #FFFFFF;">Donasi</a></button>
           </form>
         </div>
       </div>
@@ -268,8 +268,22 @@
   </section>
   <!-- End Timeline -->
 
+  <!-- Map -->
+  <section class="infografis" id="Infografis" style="border-radius: 10px;">
+    <div class="main">
+      <h1 class="judul">Infografis Wilayah</h1>
+      <div class="d-flex justify-content-center">
+        <p class="deskripsi mt-3">Menampilkan Data Bencana Alam Yang Terjadi di Wilayah Indonesia</p>
+      </div>
+      <div class="d-flex justify-content-center">
+        <iframe src="page/map.html" frameborder="0" style="width: 90vw; height: 40vw;"></iframe>
+      </div>
+    </div>
+  </section>
+  <!-- End Map -->
+
   <!-- panduan evakuasi -->
-  <section class="card-pevakuasi my-5 d-flex justify-content-center panduan-evakuasi">
+  <section class="card-evakuasi d-flex justify-content-center panduan-evakuasi">
     <div class="container-ryn d-flex justify-content-center">
       <div class="row gap-3">
         <div class="main">
@@ -408,13 +422,13 @@
   <!-- end  panduan evakuasi   -->
 
   <!-- berita -->
-  <section class="card-berita my-5 mb-5">
+  <section class="card-berita my-5 mb-5 pt-5">
     <div class="container">
       <div class="row justify-content-center">
         <div class="main">
           <h1 class="text-center fw-600 mb-1 judul">Berita Terbaru</h1>
           <div class="d-flex justify-content-center">
-            <p class="text-center mb-4 deskripsi">
+            <p class="text-center deskripsi">
               Selalu Ketahui Berita Terbaru Untuk Menambah Wawasan Dan Pengetahuan
             </p>
           </div>
@@ -564,7 +578,7 @@
   <!-- youtube end -->
 
   <!-- Donasi start -->
-  <section class="donasi donasi-lp d-flex">
+  <section class="donasi donasi-lp d-flex justify-content-between">
     <div class="donasi-text">
       <div class="donasi-highlight">
         <p class="donasi-text-highlight">Donasi Korban Bencana</p>
@@ -590,7 +604,7 @@
   <!-- Donasi end -->
 
   <!-- Footer Start -->
-  <section class="footer d-flex container-xxl bg-dark text-light ">
+  <section class="footer d-flex bg-dark text-light ">
     <div class="footer-kiri p-3">
       <p class="footer-kiri-title fs-4">Tentang SIAGA</p>
       <p class="footer-kiri-sub">SIAGA adalah platform yang dirancang untuk membantu dalam mitigasi bencana alam. Tujuan
