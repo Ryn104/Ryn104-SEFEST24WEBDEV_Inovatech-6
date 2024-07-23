@@ -88,5 +88,149 @@
         "magnitudo": "-",
         "korban_jiwa": "Tidak diketahui",
         "deskripsi": "Salah satu letusan supervolcano terbesar dalam sejarah geologi bumi, mempengaruhi iklim global."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Agung 2017",
+        "tanggal": "2017-11-21",
+        "lokasi": "Bali",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "deskripsi": "Letusan menyebabkan evakuasi ribuan orang dan gangguan penerbangan internasional."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Lokon 2011",
+        "tanggal": "2011-07-14",
+        "lokasi": "Sulawesi Utara",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "deskripsi": "Letusan mengeluarkan abu vulkanik setinggi 3.500 meter dan menyebabkan evakuasi."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Soputan 2016",
+        "tanggal": "2016-01-04",
+        "lokasi": "Sulawesi Utara",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "deskripsi": "Letusan menyebabkan abu tebal menutupi wilayah sekitar."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Merapi 2006",
+        "tanggal": "2006-05-27",
+        "lokasi": "Yogyakarta, Jawa Tengah",
+        "magnitudo": "-",
+        "korban_jiwa": 2,
+        "deskripsi": "Letusan terjadi bersamaan dengan gempa bumi Yogyakarta yang dahsyat."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Bromo 2010",
+        "tanggal": "2010-11-26",
+        "lokasi": "Jawa Timur",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "deskripsi": "Letusan menyebabkan bandara di Malang dan Surabaya ditutup sementara."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Kelimutu 1968",
+        "tanggal": "1968-06-16",
+        "lokasi": "Flores, Nusa Tenggara Timur",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "deskripsi": "Letusan menghasilkan danau kawah yang terkenal dengan perubahan warna airnya."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Karangetang 2013",
+        "tanggal": "2013-09-17",
+        "lokasi": "Siau, Sulawesi Utara",
+        "magnitudo": "-",
+        "korban_jiwa": 4,
+        "deskripsi": "Letusan menyebabkan aliran lava yang mengancam desa-desa sekitar."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Ijen 2011",
+        "tanggal": "2011-03-12",
+        "lokasi": "Jawa Timur",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "deskripsi": "Letusan kecil dengan pelepasan gas beracun yang mempengaruhi kawasan wisata."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Sangeang Api 2014",
+        "tanggal": "2014-05-30",
+        "lokasi": "Nusa Tenggara Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "deskripsi": "Letusan menyebabkan pembatalan penerbangan di wilayah Australia."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Sinabung 2014",
+        "tanggal": "2014-01-04",
+        "lokasi": "Sumatera Utara",
+        "magnitudo": "-",
+        "korban_jiwa": 16,
+        "deskripsi": "Letusan yang mematikan mengakibatkan korban jiwa dan evakuasi besar-besaran."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Kelud 1990",
+        "tanggal": "1990-02-10",
+        "lokasi": "Jawa Timur",
+        "magnitudo": "-",
+        "korban_jiwa": 32,
+        "deskripsi": "Letusan besar dengan awan panas yang mematikan, menyebabkan ribuan orang mengungsi."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Rokatenda 2013",
+        "tanggal": "2013-08-10",
+        "lokasi": "Nusa Tenggara Timur",
+        "magnitudo": "-",
+        "korban_jiwa": 6,
+        "deskripsi": "Letusan mengakibatkan korban jiwa dan evakuasi penduduk pulau terdekat."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Slamet 2014",
+        "tanggal": "2014-09-18",
+        "lokasi": "Jawa Tengah",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "deskripsi": "Letusan menyebabkan abu tebal menyelimuti kota-kota di sekitarnya."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Raung 2015",
+        "tanggal": "2015-07-15",
+        "lokasi": "Jawa Timur",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "deskripsi": "Letusan menyebabkan penutupan bandara dan gangguan penerbangan di wilayah Bali."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Marapi 2017",
+        "tanggal": "2017-06-04",
+        "lokasi": "Sumatera Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 0,
+        "deskripsi": "Letusan menyebabkan abu vulkanik mencapai kota-kota di sekitar."
+    },
+    {
+        "jenis": "Erupsi",
+        "nama": "Letusan Gunung Dieng 1979",
+        "tanggal": "1979-02-20",
+        "lokasi": "Jawa Tengah",
+        "magnitudo": "-",
+        "korban_jiwa": 149,
+        "deskripsi": "Letusan freatik menyebabkan pelepasan gas beracun yang mematikan."
     }
 ]

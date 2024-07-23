@@ -88,5 +88,205 @@
         "magnitudo": 8.5,
         "korban_jiwa": 25,
         "deskripsi": "Gempa bumi besar di Bengkulu yang mempengaruhi wilayah pesisir barat Sumatra."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Nabire 2024",
+        "tanggal": "2024-07-20",
+        "magnitudo": 3.4,
+        "lokasi": "7 km barat daya Nabire",
+        "kedalaman": "21 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 7 km barat daya Nabire."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Halmahera Utara 2024",
+        "tanggal": "2024-07-19",
+        "magnitudo": 4.8,
+        "lokasi": "12 km barat laut Halmahera Utara",
+        "kedalaman": "10 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 12 km barat laut Halmahera Utara."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Kobagma 2024",
+        "tanggal": "2024-07-19",
+        "magnitudo": 4.5,
+        "lokasi": "52 km timur laut Kobagma",
+        "kedalaman": "23 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 52 km timur laut Kobagma."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Luwu Timur 2024",
+        "tanggal": "2024-07-18",
+        "magnitudo": 3.7,
+        "lokasi": "34 km barat laut Luwu Timur",
+        "kedalaman": "5 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 34 km barat laut Luwu Timur."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Ambon 2024",
+        "tanggal": "2024-07-17",
+        "magnitudo": 3.3,
+        "lokasi": "18 km tenggara Ambon",
+        "kedalaman": "15 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di laut 18 km tenggara Ambon."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Bitung 2024",
+        "tanggal": "2024-07-17",
+        "magnitudo": 5.6,
+        "lokasi": "111 km tenggara Bitung",
+        "kedalaman": "10 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di laut 111 km tenggara Bitung."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Wonosobo 2024",
+        "tanggal": "2024-07-16",
+        "magnitudo": 3.6,
+        "lokasi": "17 km timur laut Wonosobo",
+        "kedalaman": "20 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 17 km timur laut Wonosobo."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Seluma 2024",
+        "tanggal": "2024-07-16",
+        "magnitudo": 4.9,
+        "lokasi": "72 km barat daya Seluma",
+        "kedalaman": "36 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di laut 72 km barat daya Seluma."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Sidenreng Rappang 2024",
+        "tanggal": "2024-07-15",
+        "magnitudo": 3.1,
+        "lokasi": "2 km barat daya Sidenreng Rappang",
+        "kedalaman": "5 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 2 km barat daya Sidenreng Rappang."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Luwu Timur 2024",
+        "tanggal": "2024-07-15",
+        "magnitudo": 3.3,
+        "lokasi": "37 km barat laut Luwu Timur",
+        "kedalaman": "5 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 37 km barat laut Luwu Timur."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Batang 2024",
+        "tanggal": "2024-07-15",
+        "magnitudo": 2.6,
+        "lokasi": "10 km tenggara Batang",
+        "kedalaman": "12 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 10 km tenggara Batang."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Buleleng 2024",
+        "tanggal": "2024-07-15",
+        "magnitudo": 3.7,
+        "lokasi": "25 km barat daya Buleleng",
+        "kedalaman": "12 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di laut 25 km barat daya Buleleng."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Kabaena Tengah 2024",
+        "tanggal": "2024-07-15",
+        "magnitudo": 3.1,
+        "lokasi": "8 km barat daya Kabaena Tengah",
+        "kedalaman": "5 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 8 km barat daya Kabaena Tengah."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Kota Jayapura 2024",
+        "tanggal": "2024-07-14",
+        "magnitudo": 3.1,
+        "lokasi": "39 km barat laut Kota Jayapura",
+        "kedalaman": "10 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di laut 39 km barat laut Kota Jayapura."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Sawai-Maluku Tengah 2024",
+        "tanggal": "2024-07-13",
+        "magnitudo": 3.1,
+        "lokasi": "46 km tenggara Sawai-Maluku Tengah",
+        "kedalaman": "15 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 46 km tenggara Sawai-Maluku Tengah."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Konawe Kepulauan 2024",
+        "tanggal": "2024-07-13",
+        "magnitudo": 2.9,
+        "lokasi": "46 km barat daya Konawe Kepulauan",
+        "kedalaman": "5 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 46 km barat daya Konawe Kepulauan."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Batang 2024",
+        "tanggal": "2024-07-13",
+        "magnitudo": 3.0,
+        "lokasi": "6 km barat daya Batang",
+        "kedalaman": "5 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 6 km barat daya Batang."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Jailolo 2024",
+        "tanggal": "2024-07-12",
+        "magnitudo": 4.8,
+        "lokasi": "127 km barat laut Jailolo",
+        "kedalaman": "10 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di laut 127 km barat laut Jailolo."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Sumbawa 2024",
+        "tanggal": "2024-07-12",
+        "magnitudo": 2.9,
+        "lokasi": "8 km timur laut Sumbawa",
+        "kedalaman": "12 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 8 km timur laut Sumbawa."
+    },
+    {
+        "jenis": "Gempa",
+        "nama": "Gempa Subulussalam 2024",
+        "tanggal": "2024-07-12",
+        "magnitudo": 3.4,
+        "lokasi": "19 km barat laut Subulussalam",
+        "kedalaman": "45 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Pusat gempa berada di darat 19 km barat laut Subulussalam."
     }
 ]

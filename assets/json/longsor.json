@@ -88,5 +88,149 @@
         "magnitudo": "-",
         "korban_jiwa": 3,
         "deskripsi": "Tanah longsor menimpa rumah di lereng bukit setelah hujan deras, menewaskan tiga orang."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Purworejo 2016",
+        "tanggal": "2016-06-18",
+        "lokasi": "Purworejo, Jawa Tengah",
+        "magnitudo": "-",
+        "korban_jiwa": 47,
+        "deskripsi": "Hujan deras memicu longsor besar yang menewaskan puluhan orang dan menghancurkan rumah."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Bima 2016",
+        "tanggal": "2016-12-21",
+        "lokasi": "Bima, Nusa Tenggara Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 12,
+        "deskripsi": "Hujan deras menyebabkan tanah longsor dan banjir, menewaskan belasan orang."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Cililin 2013",
+        "tanggal": "2013-12-01",
+        "lokasi": "Cililin, Jawa Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 11,
+        "deskripsi": "Longsor menimpa permukiman penduduk dan menyebabkan korban jiwa."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Jember 2005",
+        "tanggal": "2005-01-02",
+        "lokasi": "Jember, Jawa Timur",
+        "magnitudo": "-",
+        "korban_jiwa": 77,
+        "deskripsi": "Longsor besar menyebabkan puluhan korban jiwa dan kerusakan parah."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Garut 2016",
+        "tanggal": "2016-09-20",
+        "lokasi": "Garut, Jawa Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 34,
+        "deskripsi": "Longsor dan banjir bandang melanda daerah ini, menyebabkan puluhan korban jiwa."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Pangalengan 2015",
+        "tanggal": "2015-05-05",
+        "lokasi": "Pangalengan, Jawa Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 12,
+        "deskripsi": "Longsor menimpa kawasan perumahan dan menyebabkan korban jiwa."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Poso 2020",
+        "tanggal": "2020-05-11",
+        "lokasi": "Poso, Sulawesi Tengah",
+        "magnitudo": "-",
+        "korban_jiwa": 4,
+        "deskripsi": "Longsor dipicu hujan deras merusak rumah dan infrastruktur."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Aceh 2013",
+        "tanggal": "2013-01-26",
+        "lokasi": "Aceh Tengah, Aceh",
+        "magnitudo": "-",
+        "korban_jiwa": 20,
+        "deskripsi": "Longsor menewaskan puluhan orang dan merusak permukiman."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Manado 2014",
+        "tanggal": "2014-01-15",
+        "lokasi": "Manado, Sulawesi Utara",
+        "magnitudo": "-",
+        "korban_jiwa": 19,
+        "deskripsi": "Longsor dan banjir bandang mengakibatkan korban jiwa dan kerusakan."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Cianjur 2009",
+        "tanggal": "2009-02-11",
+        "lokasi": "Cianjur, Jawa Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 45,
+        "deskripsi": "Longsor besar menyebabkan puluhan korban jiwa dan kerusakan infrastruktur."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Sukabumi 2012",
+        "tanggal": "2012-02-20",
+        "lokasi": "Sukabumi, Jawa Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 17,
+        "deskripsi": "Longsor menewaskan belasan orang dan merusak rumah warga."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Jayapura 2019",
+        "tanggal": "2019-03-16",
+        "lokasi": "Jayapura, Papua",
+        "magnitudo": "-",
+        "korban_jiwa": 112,
+        "deskripsi": "Banjir dan longsor mengakibatkan ratusan korban jiwa dan kerusakan parah."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Kebumen 2014",
+        "tanggal": "2014-12-18",
+        "lokasi": "Kebumen, Jawa Tengah",
+        "magnitudo": "-",
+        "korban_jiwa": 7,
+        "deskripsi": "Longsor menyebabkan beberapa korban jiwa dan kerusakan rumah."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Solok 2018",
+        "tanggal": "2018-01-15",
+        "lokasi": "Solok, Sumatera Barat",
+        "magnitudo": "-",
+        "korban_jiwa": 11,
+        "deskripsi": "Longsor akibat hujan deras menewaskan beberapa orang dan merusak infrastruktur."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Enrekang 2020",
+        "tanggal": "2020-02-05",
+        "lokasi": "Enrekang, Sulawesi Selatan",
+        "magnitudo": "-",
+        "korban_jiwa": 6,
+        "deskripsi": "Longsor menewaskan beberapa orang dan mengakibatkan kerusakan pada lahan pertanian."
+    },
+    {
+        "jenis": "Longsor",
+        "nama": "Longsor Aceh Besar 2015",
+        "tanggal": "2015-01-23",
+        "lokasi": "Aceh Besar, Aceh",
+        "magnitudo": "-",
+        "korban_jiwa": 8,
+        "deskripsi": "Longsor menyebabkan beberapa korban jiwa dan kerusakan infrastruktur."
     }
 ]

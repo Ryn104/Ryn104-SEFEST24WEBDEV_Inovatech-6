@@ -3,7 +3,7 @@
         "jenis": "Tsunami",
         "nama": "Tsunami Samudra Hindia 2004",
         "tanggal": "2004-12-26",
-        "magnitudo": "9.1-9.3",
+        "magnitudo": 9.3,
         "lokasi": "Lepas pantai barat Sumatera",
         "korban_jiwa": 230000,
         "negara_terdampak": 14,
@@ -13,7 +13,7 @@
         "jenis": "Tsunami",
         "nama": "Tsunami Pangandaran 2006",
         "tanggal": "2006-07-17",
-        "magnitudo": "7.7",
+        "magnitudo": 7.7,
         "lokasi": "Lepas pantai Jawa",
         "korban_jiwa": 600,
         "deskripsi": "Tsunami yang merusak ribuan rumah dan menewaskan lebih dari 600 orang."
@@ -22,7 +22,7 @@
         "jenis": "Tsunami",
         "nama": "Tsunami Mentawai 2010",
         "tanggal": "2010-10-25",
-        "magnitudo": "7.7",
+        "magnitudo": 7.7,
         "lokasi": "Kepulauan Mentawai, Sumatera Barat",
         "korban_jiwa": 400,
         "deskripsi": "Gempa menyebabkan tsunami yang menewaskan lebih dari 400 orang."
@@ -31,7 +31,7 @@
         "jenis": "Tsunami",
         "nama": "Tsunami Palu 2018",
         "tanggal": "2018-09-28",
-        "magnitudo": "7.5",
+        "magnitudo": 7.5,
         "lokasi": "Sulawesi Tengah",
         "korban_jiwa": 4000,
         "deskripsi": "Tsunami menghantam Palu dan Donggala, menewaskan lebih dari 4.000 orang."
@@ -49,7 +49,7 @@
         "jenis": "Tsunami",
         "nama": "Tsunami Flores 1992",
         "tanggal": "1992-12-12",
-        "magnitudo": "7.8",
+        "magnitudo": 7.8,
         "lokasi": "Pulau Flores",
         "korban_jiwa": 2100,
         "deskripsi": "Gempa dan tsunami di Flores mengakibatkan banyak kerusakan dan korban jiwa."
@@ -58,7 +58,7 @@
         "jenis": "Tsunami",
         "nama": "Tsunami Banyuwangi 1994",
         "tanggal": "1994-06-03",
-        "magnitudo": "7.8",
+        "magnitudo": 7.8,
         "lokasi": "Lepas pantai Jawa Timur",
         "korban_jiwa": 238,
         "deskripsi": "Tsunami ini menewaskan ratusan orang dan menghancurkan banyak desa di Banyuwangi."
@@ -67,10 +67,30 @@
         "jenis": "Tsunami",
         "nama": "Tsunami Biak 1996",
         "tanggal": "1996-02-17",
-        "magnitudo": "8.2",
+        "magnitudo": 8.2,
         "lokasi": "Biak, Papua",
         "korban_jiwa": 166,
         "deskripsi": "Gempa besar diikuti tsunami menyebabkan kerusakan di Biak."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Palu-Donggala 2018",
+        "tanggal": "2018-09-28",
+        "magnitudo": 7.7,
+        "lokasi": "27 km TimurLaut DONGGALA-SULTENG",
+        "kedalaman": "10 Km",
+        "korban_jiwa": 4340,
+        "deskripsi": "Gempa berkekuatan 7.7 terjadi di 27 km Timur Laut Donggala, Sulawesi Tengah."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Lombok Timur 2018",
+        "tanggal": "2018-08-05",
+        "magnitudo": 7.0,
+        "lokasi": "18 km BaratLaut LOMBOKTIMUR-NTB",
+        "kedalaman": "15 Km",
+        "korban_jiwa": 564,
+        "deskripsi": "Gempa berkekuatan 7.0 terjadi di 18 km Barat Laut Lombok Timur, NTB."
     },
     {
         "jenis": "Tsunami",
@@ -85,9 +105,129 @@
         "jenis": "Tsunami",
         "nama": "Tsunami Laut Banda 1938",
         "tanggal": "1938-02-01",
-        "magnitudo": "8.5",
+        "magnitudo": 8.5,
         "lokasi": "Laut Banda",
         "korban_jiwa": 1000,
         "deskripsi": "Tsunami besar di Laut Banda yang mempengaruhi banyak wilayah pesisir."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Mentawai 2023",
+        "tanggal": "2023-04-25",
+        "magnitudo": 7.3,
+        "lokasi": "177 km BaratLaut KEP-MENTAWAI-SUMBAR",
+        "kedalaman": "84 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Gempa berkekuatan 7.3 terjadi di 177 km Barat Laut Kepulauan Mentawai, Sumatera Barat."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Maluku Tenggara Barat 2023",
+        "tanggal": "2023-01-10",
+        "magnitudo": 7.5,
+        "lokasi": "136 km BaratLaut MALUKUTENGGARABRT",
+        "kedalaman": "130 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Gempa berkekuatan 7.5 terjadi di 136 km Barat Laut Maluku Tenggara Barat."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Maluku Tenggara Barat 2023",
+        "tanggal": "2023-01-10",
+        "magnitudo": 7.9,
+        "lokasi": "148 km BaratLaut MALUKUTENGGARABRT",
+        "kedalaman": "131 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Gempa berkekuatan 7.9 terjadi di 148 km Barat Laut Maluku Tenggara Barat."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Larantuka 2021",
+        "tanggal": "2021-12-14",
+        "magnitudo": 7.4,
+        "lokasi": "113 km BaratLaut LARANTUKA-NTT",
+        "kedalaman": "10 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Gempa berkekuatan 7.4 terjadi di 113 km Barat Laut Larantuka, NTT."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Larantuka 2021",
+        "tanggal": "2021-12-14",
+        "magnitudo": 7.5,
+        "lokasi": "112 km BaratLaut LARANTUKA-NTT",
+        "kedalaman": "12 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Gempa berkekuatan 7.5 terjadi di 112 km Barat Laut Larantuka, NTT."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Jailolo 2019",
+        "tanggal": "2019-11-14",
+        "magnitudo": 7.1,
+        "lokasi": "137 km BaratLaut JAILOLO-MALUT",
+        "kedalaman": "73 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Gempa berkekuatan 7.1 terjadi di 137 km Barat Laut Jailolo, Maluku Utara."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Jailolo 2019",
+        "tanggal": "2019-11-14",
+        "magnitudo": 7.4,
+        "lokasi": "134 km BaratLaut JAILOLO-MALUT",
+        "kedalaman": "10 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Gempa berkekuatan 7.4 terjadi di 134 km Barat Laut Jailolo, Maluku Utara."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Sumur Banten 2019",
+        "tanggal": "2019-08-02",
+        "magnitudo": 7.4,
+        "lokasi": "147 km BaratDaya SUMUR-BANTEN",
+        "kedalaman": "10 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Gempa berkekuatan 7.4 terjadi di 147 km Barat Daya Sumur, Banten."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Ternate 2019",
+        "tanggal": "2019-07-07",
+        "magnitudo": 7.0,
+        "lokasi": "133 km BaratDaya TERNATE-MALUT",
+        "kedalaman": "36 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Gempa berkekuatan 7.0 terjadi di 133 km Barat Daya Ternate, Maluku Utara."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Ternate 2019",
+        "tanggal": "2019-07-07",
+        "magnitudo": 7.1,
+        "lokasi": "135 km BaratDaya TERNATE-MALUT",
+        "kedalaman": "10 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Gempa berkekuatan 7.1 terjadi di 135 km Barat Daya Ternate, Maluku Utara."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Banggai Kepulauan 2019",
+        "tanggal": "2019-04-12",
+        "magnitudo": 6.9,
+        "lokasi": "85 km BaratDaya BANGGAIKEP-SULTENG",
+        "kedalaman": "10 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Gempa berkekuatan 6.9 terjadi di 85 km Barat Daya Banggai Kepulauan, Sulawesi Tengah."
+    },
+    {
+        "jenis": "Tsunami",
+        "nama": "Tsunami Malang 2018 (Test Event)",
+        "tanggal": "2018-07-11",
+        "magnitudo": 7.8,
+        "lokasi": "261 km Tenggara KEPANJEN-MALANG-JATIM",
+        "kedalaman": "10 Km",
+        "korban_jiwa": 0,
+        "deskripsi": "Gempa berkekuatan 7.8 terjadi di 261 km Tenggara Kepanjen, Malang, Jawa Timur (Hanya TEST Event)."
     }
 ]
