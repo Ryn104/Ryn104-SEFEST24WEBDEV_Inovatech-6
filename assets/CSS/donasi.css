@@ -26,9 +26,9 @@ body{
 }
 .donasi-card{
     background-color: #FFFFFF;
-    width: 22rem;
+    width: 20vw !important;
     padding: 1rem;
-    border-radius: 15px;
+    border-radius: 10px !important;
 }
 .donasi-cards{
     display: grid;

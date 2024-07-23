@@ -23,7 +23,7 @@
   cursor: pointer;
 }
 .titel {
-  font-size: 0.8rem;
+  font-size: 1rem;
   margin-bottom: 8rem;
   font-weight: 500;
 }
@@ -32,13 +32,14 @@
   text-transform: capitalize;
   font-weight: 600;
   margin-bottom: 0.5rem;
+  margin-top: 16vh !important;
 }
 .parap {
-  font-size: 11px;
+  font-size: 1rem;
+  margin-top: 10px !important;
 }
 .imeg {
-  height: 19rem;
-  border-radius: 15px;
+  border-radius: 10px !important;
   object-fit: cover !important;
   object-position: center !important;
 }
@@ -69,14 +70,14 @@
   width: 80vw;
 }
 .card-ryn {
-  width: 14.5vw;
+  width: 15.5vw;
   height: 35vh !important;
   border-radius: 10px !important;
   border: none !important;
 }
 .cardbodi {
-  width: 14.3vw;
-  height: 6vh !important;
+  /* height: 40vh !important; */
+  width: 18vw;
   border-radius: 10px !important;
   background-color: transparent !important;
 }
@@ -89,4 +90,16 @@
 }
 .panduan-evakuasi .main {
   margin-bottom: 2vh;
+}
+.card-riyan {
+  height: 35vh !important;
+  width: 20vw !important;
+  border-radius: 10px !important;
+}
+.image-riyan {
+  height: 35vh !important;
+  width: 20vw !important;
+}
+.card {
+  border: none !important;
 }
