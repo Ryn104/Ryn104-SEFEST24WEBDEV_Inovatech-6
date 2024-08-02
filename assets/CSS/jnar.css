@@ -54,6 +54,7 @@
   font-size: 1.5rem;
   text-align: left;
   margin-left: 1.5vw;
+  margin-bottom: 1vw;
 }
 .panimeg {
   height: 100%;
@@ -61,17 +62,19 @@
   object-fit: cover;
   object-position: center;
   border-radius: 10px !important;
+  filter: grayscale(80%);
+  transition: all 0.1s ease;
 }
 .panimeg:hover {
-  height: min-content;
   cursor: pointer;
+  filter: grayscale(0%);
 }
 .container-ryn {
   width: 80vw;
 }
 .card-ryn {
   width: 15.5vw;
-  height: 35vh !important;
+  height: 37vh !important;
   border-radius: 10px !important;
   border: none !important;
 }
@@ -83,10 +86,11 @@
 }
 .card-body-ryn {
   border-radius: 100px !important;
+  transition: all 0.1s ease;
 }
 .card-body-ryn:hover {
   cursor: pointer;
-  transform: scale(0.98);
+  transform: scale(1.02);
 }
 .panduan-evakuasi .main {
   margin-bottom: 2vh;

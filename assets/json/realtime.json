@@ -1,5 +1,239 @@
 [
     {
+        "tanggal": "02 Agustus 2024",
+        "jam": "07:00",
+        "lintang": -8.64,
+        "bujur": 114.96,
+        "magnitudo": "2.2",
+        "kedalaman_km": 87,
+        "wilayah": "Bali Region, Indonesia"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "08:17",
+        "lintang": -1.54,
+        "bujur": 122.73,
+        "magnitudo": "3.1",
+        "kedalaman_km": 10,
+        "wilayah": "Central Sulawesi, Indonesia"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "09:14",
+        "lintang": -0.39,
+        "bujur": 122.84,
+        "magnitudo": "3.4",
+        "kedalaman_km": 24,
+        "wilayah": "Central Sulawesi, Indonesia"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "09:16",
+        "lintang": -8.73,
+        "bujur": 118.35,
+        "magnitudo": "3.0",
+        "kedalaman_km": 133,
+        "wilayah": "Bali Sea"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "09:24",
+        "lintang": 5.2,
+        "bujur": 125.49,
+        "magnitudo": "2.5",
+        "kedalaman_km": 46,
+        "wilayah": "Mindanao, Philippines"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "09:32",
+        "lintang": -0.43,
+        "bujur": 122.91,
+        "magnitudo": "3.3",
+        "kedalaman_km": 24,
+        "wilayah": "Central Sulawesi, Indonesia"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "09:38",
+        "lintang": 2.75,
+        "bujur": 96.21,
+        "magnitudo": "3.0",
+        "kedalaman_km": 28,
+        "wilayah": "Nias Region, Indonesia"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "09:41",
+        "lintang": -1.54,
+        "bujur": 122.72,
+        "magnitudo": "3.1",
+        "kedalaman_km": 10,
+        "wilayah": "Central Sulawesi, Indonesia"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "09:44",
+        "lintang": -7.82,
+        "bujur": 118.86,
+        "magnitudo": "3.3",
+        "kedalaman_km": 117,
+        "wilayah": "Sumbawa Region, Indonesia"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "09:56",
+        "lintang": 2.78,
+        "bujur": 96.15,
+        "magnitudo": "3.1",
+        "kedalaman_km": 27,
+        "wilayah": "Nias Region, Indonesia"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "10:04",
+        "lintang": 1.21,
+        "bujur": 126.32,
+        "magnitudo": "2.8",
+        "kedalaman_km": 55,
+        "wilayah": "Molucca Sea"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "10:15",
+        "lintang": -0.41,
+        "bujur": 123.12,
+        "magnitudo": "3.4",
+        "kedalaman_km": 24,
+        "wilayah": "Central Sulawesi, Indonesia"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "10:28",
+        "lintang": -0.33,
+        "bujur": 123.24,
+        "magnitudo": "3.7",
+        "kedalaman_km": 10,
+        "wilayah": "Central Sulawesi, Indonesia"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "10:35",
+        "lintang": -9.18,
+        "bujur": 118.82,
+        "magnitudo": "3.5",
+        "kedalaman_km": 10,
+        "wilayah": "Sumbawa Region, Indonesia"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "10:39",
+        "lintang": -9.17,
+        "bujur": 118.82,
+        "magnitudo": "3.6",
+        "kedalaman_km": 10,
+        "wilayah": "Sumbawa Region, Indonesia"
+    },
+    {
+        "tanggal": "02 Agustus 2024",
+        "jam": "10:52",
+        "lintang": -8.42,
+        "bujur": 119.89,
+        "magnitudo": "3.4",
+        "kedalaman_km": 125,
+        "wilayah": "Flores Region, Indonesia"
+    },
+    {
+        "tanggal": "22 Juli 2024",
+        "jam": "10:12",
+        "lintang": -18.31,
+        "bujur": -177.95,
+        "magnitudo": "5.0",
+        "kedalaman_km": 657,
+        "wilayah": "Fiji Islands Region"
+    },
+    {
+        "tanggal": "23 Juli 2024",
+        "jam": "11:23",
+        "lintang": 12.45,
+        "bujur": 141.15,
+        "magnitudo": "4.7",
+        "kedalaman_km": 70,
+        "wilayah": "Guam Region"
+    },
+    {
+        "tanggal": "24 Juli 2024",
+        "jam": "12:34",
+        "lintang": -2.15,
+        "bujur": 138.49,
+        "magnitudo": "5.1",
+        "kedalaman_km": 10,
+        "wilayah": "Papua, Indonesia"
+    },
+    {
+        "tanggal": "25 Juli 2024",
+        "jam": "13:45",
+        "lintang": 19.02,
+        "bujur": 145.23,
+        "magnitudo": "6.2",
+        "kedalaman_km": 10,
+        "wilayah": "Mariana Islands Region"
+    },
+    {
+        "tanggal": "26 Juli 2024",
+        "jam": "14:56",
+        "lintang": -20.46,
+        "bujur": -178.56,
+        "magnitudo": "5.6",
+        "kedalaman_km": 527,
+        "wilayah": "Fiji Region"
+    },
+    {
+        "tanggal": "27 Juli 2024",
+        "jam": "15:07",
+        "lintang": 36.12,
+        "bujur": 140.96,
+        "magnitudo": "4.3",
+        "kedalaman_km": 50,
+        "wilayah": "Near East Coast of Honshu, Japan"
+    },
+    {
+        "tanggal": "28 Juli 2024",
+        "jam": "16:18",
+        "lintang": 6.92,
+        "bujur": 126.38,
+        "magnitudo": "4.4",
+        "kedalaman_km": 60,
+        "wilayah": "Mindanao, Philippines"
+    },
+    {
+        "tanggal": "29 Juli 2024",
+        "jam": "17:29",
+        "lintang": 1.21,
+        "bujur": 127.23,
+        "magnitudo": "4.5",
+        "kedalaman_km": 30,
+        "wilayah": "North of Halmahera, Indonesia"
+    },
+    {
+        "tanggal": "30 Juli 2024",
+        "jam": "18:40",
+        "lintang": 13.59,
+        "bujur": 145.56,
+        "magnitudo": "4.6",
+        "kedalaman_km": 20,
+        "wilayah": "Guam Region"
+    },
+    {
+        "tanggal": "31 Juli 2024",
+        "jam": "19:51",
+        "lintang": 40.95,
+        "bujur": 143.15,
+        "magnitudo": "4.8",
+        "kedalaman_km": 40,
+        "wilayah": "Hokkaido, Japan Region"
+    },
+    {
         "tanggal": "22 Juli 2024",
         "jam": "14:47",
         "lintang": -5.24,

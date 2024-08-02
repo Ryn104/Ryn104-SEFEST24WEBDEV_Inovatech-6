@@ -44,7 +44,7 @@
         "nama": "Tsunami Selat Sunda 2018",
         "tanggal": "2018-12-22",
         "lokasi": "Selat Sunda",
-        "magnitudo": "Tidak diketahui",
+        "magnitudo": "Tidak Diketahui",
         "korban_jiwa": 437,
         "koordinat": [-6.14, 105.2],
         "deskripsi": "Letusan gunung berapi Anak Krakatau menyebabkan tsunami."
@@ -106,7 +106,7 @@
         "nama": "Tsunami Aceh Singkil 1907",
         "tanggal": "1907-01-04",
         "lokasi": "Aceh Singkil",
-        "magnitudo": "Tidak diketahui",
+        "magnitudo": "Tidak Diketahui",
         "korban_jiwa": 3000,
         "koordinat": [2.8, 97.6],
         "deskripsi": "Salah satu tsunami awal yang terdokumentasi di Indonesia, menewaskan ribuan orang."
@@ -203,7 +203,7 @@
         "nama": "Tsunami 2009 Kalimantan",
         "tanggal": "2009-09-30",
         "lokasi": "Kalimantan Barat",
-        "magnitudo": "-",
+        "magnitudo": "Tidak Diketahui",
         "korban_jiwa": 0,
         "koordinat": [-1.0, 109.0],
         "deskripsi": "Tsunami kecil yang terjadi setelah gempa bumi di Samudra Hindia, menyebabkan gelombang kecil di pantai barat Kalimantan."
@@ -213,7 +213,7 @@
         "nama": "Tsunami 1976 Kalimantan",
         "tanggal": "1976-11-11",
         "lokasi": "Kalimantan Timur",
-        "magnitudo": "-",
+        "magnitudo": "Tidak Diketahui",
         "korban_jiwa": 0,
         "koordinat": [0.2, 117.6],
         "deskripsi": "Tsunami kecil yang disebabkan oleh aktivitas seismik di kawasan, menyebabkan dampak minimal di pesisir Kalimantan Timur."
